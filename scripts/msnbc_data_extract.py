@@ -43,17 +43,17 @@ if showname in available_shows:
 	if showname == "Hardball_with_Chris_Matthew":
 		URL="http://www.msnbc.com/transcripts/hardball/"
 	elif showname == "Mtp_Daily":
-		URL="http://www.msnbc.com/transcripts/mtp-daily//"
+		URL="http://www.msnbc.com/transcripts/mtp-daily/"
 	elif showname == "The_Beat_with_Ari_Melber":
 		URL="http://www.msnbc.com/transcripts/msnbc-live-with-ari-melber/"
 	elif showname == "The_Rachel_Maddow_Show":
 		URL="http://www.msnbc.com/transcripts/rachel-maddow-show/"
 	elif showname == "All_In_with_Chris_Hayes":
-		URL="http://www.msnbc.com/transcripts/all-in"
+		URL="http://www.msnbc.com/transcripts/all-in/"
 	elif showname == "The_Last_Word_with_Lawrence_ODonnell":
 		URL="http://www.msnbc.com/transcripts/the-last-word/"
 	elif showname == "For_the_Record_with_Greta":
-		URL="http://www.msnbc.com/transcripts/for-the-record-with-greta"
+		URL="http://www.msnbc.com/transcripts/for-the-record-with-greta/"
 else:
 	print("showname should be in :\n")
 	print(available_shows)
@@ -107,7 +107,7 @@ for year in range(int(start_year),int(end_year)):
 		if month == int(end_mon)-1:
 			month_end = end_day
 		else:
-			month_end = '30'
+			month_end = '32'
 
 		print("month_end ",month_end)
 		for day in range(int(month_start), int(month_end)):
@@ -122,10 +122,11 @@ for year in range(int(start_year),int(end_year)):
 				html_text = requests.get(URL+str(year)+"-"+month_cl+"-0"+str(day)).text
 #				print(html_text)
 				clean_text = get_clean_transcript(inhtml=html_text)
-				file = open(TRANSCRIPTS+str(year)+"-"+month_cl+"-0"+str(day)+".html",'w')
-				for line in clean_text:
-					file.write(line+"\n")
-				file.close()
+				if len(clean_text) > 3:
+					file = open(TRANSCRIPTS+str(year)+"-"+month_cl+"-0"+str(day)+".txt",'w')
+					for line in clean_text:
+						file.write(line+"\n")
+					file.close()
 
 				
 #				curl $URL$year"-"$month_cl"-0"$day > $HTML$year$"-"$month_cl"-0"$day".html"
@@ -134,10 +135,11 @@ for year in range(int(start_year),int(end_year)):
 				html_text = requests.get(URL+str(year)+"-"+month_cl+"-"+str(day)).text
 #				print(html_text)
 				clean_text = get_clean_transcript(inhtml=html_text)
-				file = open(TRANSCRIPTS+str(year)+"-"+month_cl+"-"+str(day)+".html",'w')
-				for line in clean_text:
-					file.write(line+"\n")
-				file.close()
+				if len(clean_text) > 3:
+					file = open(TRANSCRIPTS+str(year)+"-"+month_cl+"-"+str(day)+".txt",'w')
+					for line in clean_text:
+						file.write(line+"\n")
+					file.close()
 #				print(clean_text.findAll('p'))
 #				curl $URL$year"-"$month_cl"-"$day > $HTML$year$"-"$month_cl"-"$day".html"
 

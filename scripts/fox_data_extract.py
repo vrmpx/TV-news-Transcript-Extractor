@@ -121,10 +121,12 @@ htmls = get_htmls(transcript_urls)
 clean_transcripts = get_clean_transcripts(htmls)
 
 for key in clean_transcripts.keys():
-	file = open(TRANSCRIPTS+key+".txt",'w')
-	for line in clean_transcripts[key]:
-		file.write(line+"\n")
-	file.close()
+	data = clean_transcripts[key]
+	if len(data) > 2:
+		file = open(TRANSCRIPTS+key+".txt",'w')
+		for line in clean_transcripts[key]:
+			file.write(line+"\n")
+		file.close()
 '''
 for year in range(int(start_year),int(end_year)):
 	print("year",year)
