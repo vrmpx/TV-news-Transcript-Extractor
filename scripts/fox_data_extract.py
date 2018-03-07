@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 '''
 get scripts of last 10 or 18 days
 '''
-def get_tsanscript_urls(showurl):
+def get_transcript_urls(showurl):
 	print(showurl)
 #	print(show_html)
 	show_html = requests.get(showurl).text
@@ -115,7 +115,7 @@ call("mkdir -p "+STOR, shell=True)
 
 #url="http://www.msnbc.com/transcripts/mtp-daily/2017-06-20"
 
-transcript_urls = get_tsanscript_urls(showurl=URL)
+transcript_urls = get_transcript_urls(showurl=URL)
 print(transcript_urls)
 htmls = get_htmls(transcript_urls)
 clean_transcripts = get_clean_transcripts(htmls)
