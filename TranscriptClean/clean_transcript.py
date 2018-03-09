@@ -5,11 +5,15 @@ import glob
 import base64
 import requests
 from difflib import SequenceMatcher
+from hammock import Hammock as GendreAPI
+
+gendre = GendreAPI("http://api.namsor.com/onomastics/api/json/gendre")
 
 # Created by Tushar Singhal
 
 race_dict = {}                      #stores all the names of celebs as keys and their race as values
-celeb_names_dict = {}
+celeb_names_dict = {}               #stores unique celeb names as keys and race as value
+gender_dict = {}                    #stores unique celeb names as keys and gender as value
 
 def readgit():
 
@@ -53,14 +57,16 @@ outputdirec = ["output_clean/FOX/Hannity/",
 def main():
     readgit()
     readfiles()
-    print(len(celeb_names_dict))
+    resp = gendre('bush', 'x').GET()
+    # print(resp.json().get('gender'))
+
 
 def readfiles():
     for i in range(len(directories)):
         for filename in glob.glob(os.path.join(directories[i] + "transcripts/", '*.txt')):
             textfilename = filename.split("/")
             output_filename = outputdirec[i] + textfilename[len(textfilename)-1]
-            file_out = open(output_filename, "w");
+            file_out = open(output_filename, "w")
             file_cur = open(filename, "r")
             lines_of_text = []
             for line in file_cur:
@@ -77,23 +83,52 @@ def similar(a, b):                              #returns similarity between stri
     return SequenceMatcher(None, a, b).ratio()
 
 
-def addrace(precolon):                            #find most similar name in the dictionary
-    name = getname(precolon).lower()
-    mostsimilarname = ""
-    maxsimilarity = 0
+def getgender(name):
+    namesplit = name.split(" ")
+    if len(namesplit) > 2 or name == "":
+        gender = "N.A"
+    elif len(namesplit) == 2:
+        resp = gendre(namesplit[0], namesplit[1]).GET()
+        gender = resp.json().get('gender')
+    elif len(namesplit) == 1:               #handles edge case of precolons beginning with brackets which give empty names
+        resp = gendre(namesplit[0], 'a').GET()
+        gender = resp.json().get('gender')
+
+    return gender
+
+
+def addgenderace(precolon):                            #find most similar name in the dictionary
+    name = getname(precolon).lower().rstrip()
+
+    maxsimilarity = 0.0
+    race = ""
     global celeb_names_dict
-    celeb_names_dict[name] = ""
-    # for key in race_dict.keys():
-    #     similarity = similar(key.lower(), name)
-    #     print(key)
-    #     if similarity >= 0.5 and similarity > maxsimilarity:
-    #         maxsimilarity = similarity
-    #         mostsimilarname = key
-    if maxsimilarity != 0:
-        race = race_dict[mostsimilarname]
+    global gender_dict
+
+    if name in celeb_names_dict:                # if key name exists in celeb_names_dict
+        race = celeb_names_dict[name]
     else:
-        race = "N.A"
-    precolon = "Name: " + precolon + " ; Race: " + race
+        for key in race_dict.keys():
+            similarity = similar(key.lower(), name)
+            if similarity >= 0.5 and similarity > maxsimilarity:
+                maxsimilarity = similarity
+                race = race_dict[key]
+        if race != "":                          #if race found
+            celeb_names_dict[name] = race
+
+    if name in gender_dict:
+        gender = gender_dict[name]
+    else:
+        gender = getgender(name)
+        gender_dict[name] = gender
+
+    if maxsimilarity != 0.0 or race != "":
+        race2 = race
+    else:
+        race2 = "N.A"
+
+    precolon = "Name: " + precolon + " ; Gender: " + gender + " ; Race: " + race2
+
     return precolon
 
 
@@ -103,6 +138,7 @@ def getname(precolon):
         name = precolon[:index].rstrip()
     else:
         name = precolon.rstrip()
+    name = name.lstrip()
     return name
 
 
@@ -137,10 +173,10 @@ def cleanspeakernames(lines_of_text, startindex, endindex):
             checklowercase = any(c.islower() for c in precolon)
             if commaindex != -1 and checklowercase != 1:
                 precolon = precolon[:commaindex] + " (" + precolon[commaindex + 1:] + ")"
-                precolon = addrace(precolon)
+                precolon = addgenderace(precolon)
                 lines_of_text[i] = precolon + " ; Dialogue: " + postcolon
             elif checklowercase != 1:                               # save modified pre colon text
-                precolon = addrace(precolon)
+                precolon = addgenderace(precolon)
                 lines_of_text[i] = precolon + " ; Dialogue: " + postcolon
         i += 1
     return lines_of_text
@@ -153,8 +189,8 @@ def cleanfox(lines_of_text):
     footer2 = "Copy: Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED"  # footer type in two ingraham & story files
     startline = "START\n"
     header = "This copy may not be in its final form and may be updated."
-    startindex = 0;
-    endindex = 0;
+    startindex = 0
+    endindex = 0
 
     for i in range(len(lines_of_text)):                             #find header end, and put start label
 
@@ -205,7 +241,7 @@ def cleanfox(lines_of_text):
 
     for i in range(len(lines_of_text)-1):
         if lines_of_text[i].find(endline) == -1 and lines_of_text[i+1].find(footer1) != -1:
-            lines_of_text.insert(i+1,"###" + endline)
+            lines_of_text.insert(i+1, "###" + endline)
             endindex = i+1
             lines_of_text[i+2] = lines_of_text[i+2].lstrip()         #removing leading white space from footer
 
