@@ -1,0 +1,361 @@
+<p class="cnnBodyText"><br/>
+###START
+Name: ANDERSON COOPER ( HOST, CNN) ; Gender: male ; Race:  latino,caucasian ; Dialogue:   Hey, that's it for us. Thanks for watching 360. Time to hand it over to Don Lemon. CNN Tonight starts right now. See you tomorrow. 
+Name: DON LEMON ( HOST, CNN) ; Gender: male ; Race:  african,caucasian ; Dialogue:   This is CNN Tonight. I'm Don Lemon. 
+What will President Trump really do about gun violence? What will he do? There's what he says and there's what he might actually do. Will he raise the age to legally purchase an AR-15?
+A publicly congressional source telling CNN tonight the president is backing away from that now. While the White House source says it's not clear how committed the president is to the issue. Will the president who had lunch over the weekend with the leaders of the NRA and calls them great people, great patriots, will he arm teachers, ban bump stocks? Listen to what the president said in his own words today.
+(BEGIN VIDEO CLIP) 
+Name: DONALD TRUMP ( PRESIDENT OF THE UNITED STATES) ; Gender: male ; Race:  caucasian ; Dialogue:   By the way, bump stocks, we're writing that out. I'm writing that out myself. I don't care if Congress does it or not. I'm writing it out myself, OK.
+(APPLAUSE)
+You put it into the machine gun category, which is what it is. It becomes essentially a machine gun and nobody is going to be able, it's going to be very hard to get them. So we're writing out bump stocks. 
+(END VIDEO CLIP)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   So you heard the president. He said he'll write a bump stock ban himself. We'll be watching to see if he does that if that's true. And he also said that he'd been -- if he'd been at Stoneman Douglas High School when the shooting started things would have been different. 
+(BEGIN VIDEO CLIP)
+Name: TRUMP ; Gender: male ; Race:  caucasian ; Dialogue:   You know I really believe -- you don't know until you test it, but I think I really believe I'd run to even if I didn't have a weapon, and I don't think most of the people in this room would have done that too because I know most of you. (END VIDEO CLIP)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   So the Trump translator, Sarah Sanders jumping in later to explain what President Trump really meant, what he really meant what he would do as to be a leader. But we need to take the President of the United States at his word. And he said was, quote, I'm quoting here, "I'd run in there even if I didn't have a weapon." You'd run in there yourself even without a weapon? 
+Here's the point. Mr. President, you have a weapon more powerful than you realize if you choose to use it. Get down to business, get something done. But there's more. 
+(BEGIN VIDEO CLIP)
+Name: TRUMP ; Gender: male ; Race:  caucasian ; Dialogue:   I got to watch some deputy sheriffs performing this weekend. They weren't exactly Medal of Honor winners. All right? The way they performed was, frankly, disgusting. 
+(END VIDEO CLIP)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Listen, there is a long list of missed red flags and missed opportunities to stop the massacre at Stoneman Douglas. A lot of people will have to answer for what they did or didn't do. But saying that some deputies were not exactly Medal of Honor winners is probably not the best comparison for the president to make given his well-known draft during the Vietnam War for bone spurs on his heels. 
+But the president had a lot more to say about his call for teachers to be armed, and I'm pretty sure nobody in the room expected to hear him say this. 
+(BEGIN VIDEO CLIP)
+Name: TRUMP ; Gender: male ; Race:  caucasian ; Dialogue:   I don't want teachers to have guns. I want highly trained people that have a natural talent, like hitting a baseball or hitting a golf ball, or putting. How come some people always make the 4 footer and some people under pressure can't even take their club back. Right, some people can't take their club back. 
+(END VIDEO CLIP)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Some people can't take their club back. What is the President of the United States doing comparing the pressure of being under fire in a school shooting to missing a putt? Are you serious, Mr. President? Are you taking the lives of those students and teachers seriously? Are you taking all of our lives seriously? We've heard what you say but so far it's all just talk. 
+The question is what will you actually do about guns because this is the moment when Americans want you to actually do something instead of saying a bunch of things, throwing it out there to see what the response might be, then pulling it back and not actually talking about it again because the NRA or some group that's on your side or a bunch of republicans or your base, they don't like it. They actually want you to do something this time. So I want to bring in now CNN chief political correspondent Dana Bash,
+CNN political analyst Ryan Lizza, and Bill Kristol, the editor at large at the Weekly Standard. Good evening, to all of you. Thank you so much for joining us here on a Monday night. 
+Dana, what exactly is the president willing to do at this point? Because Sarah Sanders said he wanted to be a leader. Is he leading on this issue? 
+Name: DANA BASH ( CHIEF POLITICAL CORRESPONDENT,CNN) ; Gender: female ; Race:  african ; Dialogue:   We don't know yet. It's too early to know whether he's going to, as you said, actually do something. But I have to say it is no small thing for a republican president to stand up before a room of governors, republican and democrat, with cameras there and say don't be scared of the NRA. Sometimes we have to do things that the NRA doesn't like. 
+I think that it is a big deal particularly since this president got more money from the NRA -- at least the NRA spent outside money, but it was to help him. More than $30 million to help him get elected. And this president not even a year ago stood before the NRA convention promising he would, you know, change everything in the eight years of Obama was dreadful and it's going to be different now. 
+But saying that and that doing something in a leadership role, which it will take incredible political muscle to do anything -- you know, to really change the background check system, to really potentially change the age of the -- how old you have to be to buy an assault weapon. That is going to take muscle to force republicans who run Capitol Hill and some conservative democrats who are going to oppose it to do something. And we don't know the answer to that yet, Don. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Listen, I think your point is well-taken. I think you're right to have someone to have a republican president stand in front of the NRA especially to someone who gave him so much money. But here -- this is a thing, Ryan. This president says a lot. He said a lot of things like I'm going to do this, it's going to be my decision, I'm willing to take the heat. He said that for a couple of issues.
+Name: RYAN LIZZA ( POLITICAL ANALYST, CNN) ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   And then he goes back and he does exactly the opposite or he does exactly what his base says or he doesn't. He's not talking about raising the age anymore because the NRA is against it. 
+Name: LIZZA ; Gender: female ; Race:  caucasian ; Dialogue:   This is Trump. Everything he -- if something happens and he speaks from the gut, off-the-cuff without consulting his policy advisers. And then he actually learns what the Republican Party position is and he starts to retreat. And he learns what the people who are actually going to write the legislation in Congress believe on the issue, and he learns what the interest groups like the NRA actually believe and he starts to back pedal and back pedal. 
+So, he is going to, you could go to a whole list of issues where the same things has happened where he speaks off the top of his head because he thinks, you know, that sounds good, and then he learns what his own party's position is and he retreats on that position. 
+It happened on tax cuts, on tax reform, it happened on the health care bill, it happened on a whole number of issues he put forward last year. And I do think on bump stocks there is actually a process, because, and this is a process that is approved by the ATF -- excuse me, approved by the NRA. Remember, the NRA position on bump stocks is we don't want a congressional ban, we want the ATF to change the rules on it and that is the Trump administration vision. So that's probably going to happen. 
+(CROSSTALK)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   That should have been done after Las Vegas. 
+Name: LIZZA ; Gender: female ; Race:  caucasian ; Dialogue:   Absolutely. That's the lowest hanging fruit. It's pathetic that that's the only thing that can't be done. And I think this issue of arming teachers, there's no serious legislation in Congress to arm teachers. This is one of those things the interest groups put out to get us talking about it and debating it but there's no actual serious proposal that's going to be put forward to arm teachers. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: LIZZA ; Gender: female ; Race:  caucasian ; Dialogue:   It's not going to happen. It's just, to me, it's a distraction to take away attention from the actual legislative ideas that are up there on the hill right now. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   This, you may think, Bill, that this is a disruption because, you know, given how Ryan just framed this and I think he's exactly right. We often in the media we start chasing the shiny things like his comment today saying when he said I would have stormed into the high school whether I had a weapon or not. What did you hear the president say when he said that? 
+Name: BILL KRISTOL ( EDITOR-AT-LARGE, THE WEEKLY STANDARD) ; Gender: male ; Race:  caucasian ; Dialogue:   That is a difficult, I guess narcissism and no sense of what's appropriate. It was a pretty appalling statement. I will say, look, on both immigration and guns I'm not a Trump fan, God knows and I still don't. You know, whatever he does I'm not going to be a fan. I'm not going to think he's a good person to have as our president.
+But having said that, on both immigration and guns he clearly has an instinct that there is a centrist position, DACA, you know, protecting the young people who came over here, the DACA recipients on one hand and doing something on gun control on the other that would break the gridlock that he was elected in part to disrupt, right?
+He thinks of himself as a disrupter. And it would be impressive and interesting at least if he had the nerve and the kind of just the basic ability to kind of see this through and to get serious in either area or both areas of immigration and guns and try to shape legislation, annoy some of his own base, lose a few republican votes, get some democratic votes. And you know, it's not -- it's do-able. 
+The truth is, if Trump had the discipline to do it, I believe he could pull it off. I don't think at the end of the day his voters would dessert on either of those issues. 
+Name: BASH ; Gender: male ; Race:  other,caucasian ; Dialogue:   Absolutely.
+Name: KRISTOL ; Gender: female ; Race:  caucasian ; Dialogue:   The democrats would be under a lot of pressure to take half victories or quarter victories in this area. And you look up to if he must announce that you know what, if all of the doubts many of us about Trump he did in these two cases disrupt what seemed to be a status quo of total partisan gridlock and hyperpartisanship in Washington, but his character makes it hard for him to actually follow through and do this. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Yes, but people who analyze in the media because, you know, they're looking at it as sort of it's a both sides issue, it's a both sides thing. But if you look at it from his base, I mean, he is the base president. 
+He is presidenting or governing for his base. So why would any -- and whatever the base wants they're going to tell what he wants and he's going to do it. I'm not saying he's a puppet for his base...
+(CROSSTALK) 
+Name: KRISTOL ; Gender: female ; Race:  caucasian ; Dialogue:   But the base would still be with him, Don.
+Name: BASH ; Gender: male ; Race:  other,caucasian ; Dialogue:   Exactly.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   But that's the point.
+Name: KRISTOL ; Gender: female ; Race:  caucasian ; Dialogue:   If he gives a little more he can get a few. He can get a few non-base voters too.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Why wouldn't they support they thought?
+Name: KRISTOL ; Gender: female ; Race:  caucasian ; Dialogue:   And he could do something good for the country. And even the base, even parts of his, quote, "base" they hated Washington, they hate the swamp. It's terrible, dysfunctional. Not all of them are rabid, you know, don't hold the most rabid NRA views on guns. Not all of them with the polling shows this. Just look at the numbers. 
+There might be some number of Trump voters, even Trump base voters who are for DACA because the numbers on DACA are what, 75, 80 percent, same on the gun control measures. So in fact, if he were a more clever and disciplined politician there were ways he could keep the base while doing more on these issues. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   But what I'm saying, I'm talking and I'll let you get in, Ryan. But I'm speaking for as if I was a part of Donald Trump's base, why would I not support him because everything I want, every single thing that I want he's doing it for me and I don't really have to say anything, all I have to do is say, all I have to do is be a part of this certain group the NRA. He would flexibly does whatever the NRA wants or whatever the hard liners on immigration want or whatever the people who just happen to hate Hillary Clinton or happen to hate, and whatever you want, so of course you're going to support him. 
+Name: BASH ; Gender: male ; Race:  other,caucasian ; Dialogue:   Right. LEMON:  With every single thing that he does it doesn't really matter.
+Well, I want Ryan to get in quickly and then Dana, I have another question for you once I had this.
+Name: BASH ; Gender: male ; Race:  other,caucasian ; Dialogue:   OK.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Go ahead, Ryan. 
+Name: LIZZA ; Gender: female ; Race:  caucasian ; Dialogue:   I just feel like one of the things we've learned from the republican primaries is that Donald Trump had an amazing ability to ignore some of the interest groups, to ignore the party establishment, whatever that means. And to basically come up with whatever ideas he wanted and still maintained this close relationship with republican voters. 
+In office that's all sort of gone by the wayside and the interest groups and republican establishment as sort of their power has sort of kicked in and they have controlled the legislative agenda. 
+So I agree with Bill that he has an incredible loyalty, the base is very loyal to him, they're not as ideological. I think a lot of republican voters are not as ideological as people previously believed. That's what Trump's victory.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Or they're Trump voters.
+Name: LIZZA ; Gender: female ; Race:  caucasian ; Dialogue:   That's right. They're Trump voters. He can define the party how he wants. He's not doing it because he's not taking on the interest groups and the party donors and the leaders in Congress. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Dana, go ahead and respond. I'll ask another question after you respond. Go ahead.
+Name: BASH ; Gender: male ; Race:  other,caucasian ; Dialogue:   No, I just want to quickly say I totally agree with Bill, that he has the political capital. I think the way that you were asking the question, Don, is understandable. That if I'm part of the base why would I expect him to do any other thing than take care of me? 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Right.
+Name: BASH ; Gender: male ; Race:  other,caucasian ; Dialogue:   But when you were a leader you use that reservoir, the reservoir of goodwill and support that you have with your base to stretch a little bit and to give a little bit. And I agree with Bill that his instinct is there. And that's why I keep saying that he's saying the right things. 
+The question is whether or not he's going to bring along republicans who need that political cover in order to actually make saying something into doing something. And I agree with Ryan that...
+Name: LIZZA ; Gender: female ; Race:  caucasian ; Dialogue:   He's not...
+Name: BASH ; Gender: male ; Race:  other,caucasian ; Dialogue:   ... with what we've seen in the last year the answer is no. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Yes. Short answer, if you will, Dana. BASH:  Yes.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Hope Hicks will be testifying behind closed doors or at least meeting with the special counsel, or the House intel committee, I should say, tomorrow. Do you think she'll answer questions? 
+Name: BASH ; Gender: male ; Race:  other,caucasian ; Dialogue:   We don't know the answer to that yet. Unclear. If I were to guess, make an educated guess right now I would say unlikely that she would answer very many questions given the fact she's an actual sitting White House staffer and even former staffers like Steve Bannon refused to do so because he claimed executive privilege. 
+So the answer is probably not. And I don't want to try to diminish anything that Congress is doing, but you also have to remember that she did talk to the special counsel for many, many, many hours. And that is where the -- that's where we need to keep our eye right now on that ball. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   I have to go. I've been told I can't kill anymore breaks because I'm getting into real, real trouble. I appreciate your time. Thank you. 
+When we come back, a dramatic confrontation at the president's meeting with state governors today. What one governor said that made the president react like this.
+(COMMERCIAL BREAK)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   You heard a lot of talk from President Trump today about guns, but one dramatic moment came when the president didn't utter a word but body language spoke volumes. 
+Let's discuss now with CNN political commentator Ben Ferguson here, Joan Walsh here, as well. Thank you, all for -- thank you both for joining us. I need to get your reaction to the moment today when the president was meeting with the governors and since Governor Inslee says he has spoken to teachers and they don't want to pack heat. Watch this. 
+(BEGIN VIDEO CLIP)
+Name: JAY INSLEE ( GOVERNOR OF WASHINGTON) ; Gender: male ; Race:  other,caucasian ; Dialogue:   I just think this is circumstance where we need to listen that educators should educate and they should not be foisted upon this responsibility of packing heat in first grade classes. 
+Now I understand you have suggested this, and we suggest things and sometimes we listen to people about it. Maybe they don't look so good a little later. So I suggest we need less tweeting here and a little more listening and let's just take that off the table and move forward. 
+Name: TRUMP ; Gender: male ; Race:  caucasian ; Dialogue:   All right, thank you very much. You know, we have a number of states right now that do that, and I think with that in mind I'll call on Greg Abbot, Greg, the governor of Texas. Greg? 
+(END VIDEO CLIP)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   The president has a good poker face. I mean, I think that's pretty obvious. You know how he's feeling. 
+Name: JOAN WALSH ( POLITICAL COMMENTATOR, CNN) ; Gender: female ; Race:  caucasian ; Dialogue:   It was obvious.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   You could see him there, Ben, he was swaying, his reaction crossed arms. 
+Name: BEN FERGUSON ( POLITICAL COMMENTATOR, CNN) ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Do you think that he was when hearing from Washington's governor, do you think he was listening? 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   I do. And I think the fact that he didn't interrupt him and I think the fact the fact that he was listening. And look, clearly I don't think it's right for anyone to say teachers can't be capable of carrying a weapon. I've talked to first grade teachers for the literally the last week who have called into my show and said they want to be able to carry guns. Not all teachers. 
+It shouldn't be something that be mandated to do. Of course not. I never want anyone to have a gun that wasn't want to. But there are a lot of great people that used to be former law enforcement, they're used to be former military that are schoolteachers, coaches, and administrators. And a lot of them have said they would love to be in a position to be able to be a first responder. 
+They are already back by teaching, why shouldn't be able to give back by protecting as well. 
+These people take bullets for these kids. They use their bodies as shields. Why wouldn't we trust them with the ability to carry a gun especially they got to training?
+(CROSSTALK)
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Ben?
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   (Inaudible) or are these people calling teachers.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   No, another teacher. I've literally met with teachers. Had them come into my studio and talk to them. I have a 63-year-old woman that I literally talk to yesterday where she's been teaching for almost 40 years. Her husband's a police officer. And she said I carry a gun every day. Why shouldn't I be able to take it to class, go through the training if they want e t go through I'll volunteer. She even said it for herself. If she wants to do that why can we say that they can't teach kids but they can somehow they're not allowed this? 
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   I don't think I want her packing in school.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Why? Why is a 63-year-old carrying a weapon?
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   You know, Ben, I'm going to grant you these people are real who call into your show, but we both got to acknowledge this is a minority of teachers and it's a minority of parents. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   They're a majority. I need a minority. I need two or three, or four or five in a school. Because one thing that we don't know about the school shooters is this, almost all of them we have mug shots of. Majority would be 60 percent, 40 percent are shot. 
+Almost all of them we have mug shots from. Why? Because they don't want to get shot.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   No. Actually most of them do want to get...
+(CROSSTALK)
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   And they go into gun free zone.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Most of them do want to get shot. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   No. 
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Forty percent or forty or fifty percent who gotten shot.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   School shooters.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   School shooters, yes, they go in and they most...
+(CROSSTALK)
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Again, the majority -- right. The majority would be 60 percent, 40 percent are shot. A lot of them do not want to get shot.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   They mostly go in and wanted to get shot. And I don't think teachers need to add that to the things that they're already doing, the cost of a gun to all the pencils and the paper and all the things that they're not even paid for. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   It's so condescending to assume that you can think...
+(CROSSTALK)
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   I don't think that it's condescending.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   ... you can decide for someone else, again, who's volunteering, why does it offend you so much or why do we want to say no to people that are saying I want to volunteer? If they want to choose themselves...
+(CROSSTALK)
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Because it's not their role. It's not their role.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   And five or six of them want it to be their role what's wrong with that?
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   So then we're going to test them...
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Teachers have enough to do. WALSH:  They have more than enough to do. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Not all teachers.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   You went to school, right? 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Yes. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   You want your teachers -- I wouldn't want any ...
+(CROSSTALK)
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Absolutely.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Let me just say this. I wouldn't want not one single teacher I had in school...
+(CROSSTALK) 
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Not the ones you would like to be. Not the ones...
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Why? 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Because I don't want when I speak to law enforcement people and when I speak to actual teachers or people who I know are teachers they don't know are they carrying it on their person, can the student brush up, they're breaking...
+(CROSSTALK)
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Do they lock it?
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Someone grabs the gun, where do they keep the ammunition. How much are they going to...
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Get their locker and the kids hit something for another direction.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Let me just finish my thought, Ben.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   OK.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   So for the vast majority of teachers and for people with sense in this country they realize that...
+(CROSSTALK) 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   I don't have sense? 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   On this issue -- can I finish my thought? Can I finish my thought?
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Sure. But you're saying we don't have sense I think also just shows how arrogant people who are anti-gun. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   No, it's not arrogant. WALSH:  It's common sense. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   You can, I don't mean to offend you but for people who have sense they realize too...
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   I have sense.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   OK. There are too many things that can happen that will go the other way. It's not worth the risk of someone who is a teacher. Too many people can get hurt. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   And here's what I'll say in response. We have tried in both you all's way. We have put signs up that say gun free zones and we have done it that way for years. And every single time that someone with a gun comes on a campus your way...
+(CROSSTALK) 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   You really say a school is a gun free zone when you had school resource officers who are armed now...
+(CROSSTALK)
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Here's what I know.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   ... resource officers -- you didn't let me finish my thought. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   No, I know exactly what you're saying.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   What is my question?
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   You're saying that these police officers on campus and so therefore by default it's not a gun-free zone. Here's what I know. I know that the government we all are hoping that's going to fix this problem failed us at the local, the state and the federal level with massive warnings and multiple warnings on this shooter. We know that they also had protocol that is insane.
+(CROSSTALK)
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   That is the truth.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   That they didn't go in and wait for SWAT while children were being murdered. I think the call...
+(CROSSTALK) 
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   I don't know that that was the protocol. I don' think...
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   These are people who are trained. 
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Who are trained...
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   What I know is this. There are teachers who are capable even though you all think they can only do reading, writing and arithmetic. WALSH:  I didn't say only. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   I disagree. Well, you certainly think if you're 63 you're ignorant enough or you're too old to carry a gun in school which I disagree with. I don't think an age requirement should be put on someone to be responsible gun owner. 
+(CROSSTALK)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Do we put an age requirement for people to drive? 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   I'm just saying it's too old, Don. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Hold on, hold on, hold on. Ben, we put age restrictions on a lot of things. 
+Ben we put age restrictions on a lot of things why shouldn't they put...
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   On the young end.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Why is it, Ben, you don't think -- you think someone who is 90 years old and who may not have all their faculties should be driving? We take people off the road when they're too old to drive.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Are you saying that 63, we're talking about 63 years old.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   No, I'm not saying.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   You're telling me that person shouldn't be able to defend themselves? 
+(CROSSTALK)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   How old can -- how old can you be before you're not allowed to fly as a pilot? Seventy years old. So there are age restrictions.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   So you're saying that flying a plane...
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   So don't pretend -- don't pretend that because you're trying to make -- you're responsible for more lives in a school actually than...
+(CROSSTALK) 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Right. And I trust a 63-year-old or a 65-year-old or 67- year-old coach to be able to protect those kids. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Because when they're put in a position to protect those kids they do it with their bodies and they literally for taking those kids.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   OK, Ben, that's irrelevant. 
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Because they guns is on them all time no matter what. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Your point is that there should be no restrictions on guns at all. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   No, that's not what I'm saying. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   So there should be age, there should be...
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   You're putting words to my mouth. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   How old should someone be when they are able to purchase a gun? 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   I will go back to what I said earlier on this show. I have no problem from going from 18 to 21 on the AR-15. I have no problem banning bump stocks because I also think that there can be compromise here. But I also will say this. I do not think that it is crazy to have two or three or four teachers many of them by the way, are usually either former military or law enforcement, they are teachers and coaches. If you have 2,000 kids in a high school, you have a couple hundred faculty members...
+(CROSSTALK)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   I get your point.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   ... why can't five of those carry weapons? 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Because it's crazy. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   It's not crazy. It's crazy having a gun-free zone.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   The parents don't want it. We've heard repeatedly that the parents don't want it. 
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   That's not true. Some parents. Not all. 
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Polls show parents don't want it, poll shows Americans don't want it. Teachers don't want it. You've got...
+(CROSSTALK)
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   So many of the poll...
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Let her get in. Go ahead.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   ... who call into your show and say they want it, but most people look at this and they agree with me and don. It's crazy. It could work.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Again, show me the facts that back it up. 
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   It could work in extreme situation.
+Name: FERGUSON ; Gender: male ; Race:  caucasian ; Dialogue:   Where the majority of the parents say they do not want their schoolteachers or administrators to be able to carry a weapon if they volunteer and...
+(CROSSTALK)
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   I thought there was a poll... 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   I'll show you after the show. Just do a Google search and do it with parents and you'll see.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   And guns.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   You'll see all. All you have to do. We'll be right back.
+(COMMERCIAL BREAK)
+Name: DON LEMON ( HOST, CNN) ; Gender: male ; Race:  african,caucasian ; Dialogue: 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   We have breaking news tonight. On one of the closest members of President Trump's inner circle sources are telling CNN that Ivanka Trump's just concluded trip to South Korea ruffled some feathers and sparked new tensions inside the West Wing. 
+I want to get right now to CNN's Jeff Zeleny and get the reporting on that. So, Jeff, good evening to you. What have you learned? 
+Name: JEFF ZELENY ( SENIOR WHITE HOUSE CORRESPONDENT, CNN) ; Gender: male ; Race:  caucasian ; Dialogue:   Don, good evening. Ivanka Trump is back home tonight after leading that U.S. delegation to South Korea to the closing ceremonies of the Olympic games. 
+Now by all accounts inside the White House the trip was a success. We are hearing from some West Wing officials that they were far less enthusiastic about it going in and here's why. Now this was far more than sports. She had a high stakes meeting with President Moon in South Korea where she talked about those new U.S. sanctions against North Korea.
+This is the latest example of the blurred lines between the senior advisor and the president's daughter. We saw that of course during the interview with NBC News over the weekend she said it was inappropriate to be asked about the sexual misconduct against her father. She said I don't think that's a question you would and many other daughters. 
+But of course Ivanka Trump hardly like anyone else, any other daughter she stands alone here. And again we're learning tonight some West Wing officials not enthusiastic about her trip including chief of staff John Kelly. 
+One person close to the president told us this, he said it isn't like going to Italy. The stakes are far more higher and more complex. That of course speaks to the underlying issue of the nuclear threat on the Korean peninsula. 
+Now of course, White House official say this trip was a success and they say Ivanka Trump was simply stating administration policy, not negotiating anything new. Now I did talk to White House press secretary Sarah Sanders tonight and she said any concern about this is simply wrong. 
+Don, she told me this. "General Kelly and General McMaster of course, the national security adviser were supportive of the trip since the planning process began. We all thought it was a great success. Ivanka was a great representative for the administration." 
+Now of course this speaks to the fact, again, there is concern inside the West Wing that neither Ivanka Trump nor her husband Jared Kushner have permanent security clearances that both been at odds with the White House chief of staff. Again, this all has re-percolated again, if you will, because of that trip to South Korea. But she is back now and things seem to have abated at least somewhat in the West Wing. Don?
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Jeff Zeleny, thank you for the new reporting. I want to bring in CNN contributor Walter Shaub, former director of the Office of the Government Ethics for the Obama and Trump administrations, and CNN presidential historian Douglas Brinkley. Good evening, gentlemen. Douglas, just a quick reaction to Jeff's reporting about Ivanka Trump in North Korea. 
+Name: DOUGLAS BRINKLEY ( PRESIDENTIAL HISTORIAN, CNN) ; Gender: male ; Race:  caucasian ; Dialogue:   Ivanka Trump is trying to wear three different hats and its complicated. On one hand she's first daughter. Everyone knows that she talks to the President of the United States regularly and advice matters. On the other hand, she's, you know, a White House advisor whose own husband can't get top security clearance. 
+So there's that whole problem swirling and she then also tries to be a women's rights activist with NBC's Peter Alexander. You saw that go sideways when she couldn't really deal with the topic of her father the president having 20 or near 20 sexual misconduct allegations going on. So I don't think she's really being effective as a White House advisor or as a foreign kind of figure or as a women's rights activists. She's cut too thin with three different roles.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Yes. And she's trying to have it, you know, always, I should say both way, but always. 
+Name: BRINKLEY ; Gender: female ; Race:  other,caucasian ; Dialogue:   Yes.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   If you're going to be an advisor and an official in the White House then you have to be able to answer every question. You can't say it's offensive because I'm the daughter. Well, if you're the daughter then you don't want to answer those questions then you shouldn't be there. 
+So, Walter, an interview today with NBC Ivanka was asked about the accusations against her father of sexual misconduct. Listen. 
+(BEGIN VIDEO CLIP)
+Name: PETER ALEXANDER ( WHITE HOUSE CORRESPONDENT, NBC NEWS) ; Gender: male ; Race:  african ; Dialogue:   Do you believe your father's accusers? 
+Name: IVANKA TRUMP ( DONALD TRUMP'S DAUGHTER) ; Gender: female ; Race:  caucasian ; Dialogue:   I think it's a pretty inappropriate question to ask a daughter if she believes the accusers of her father when he's affirmatively stated that there's no truth to it. 
+(END VIDEO CLIP)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   I go back, Walter, to I ask you a minutes, it's you how can she pull the daughter card when she doesn't want to answer a question? She's a senior advisor to the President of the United States. 
+Name: WALTER SHAUB ( CONTRIBUTOR, CNN) ; Gender: male ; Race:  latino ; Dialogue:   Yes, I've seen that clip a couple of times today and it's just flesh crawlingly uncomfortable not because of the question that was asked but of her trying to shame the questioner as though we're not entitled to ask White House officials about a matter surrounding the president and plaguing him in this moment when lots of women are coming forward with different allegations. 
+The bottom line is this is the product of nepotism, and she wants to have it both ways. She wants to be handed a position that she has no qualifications for, and yet she doesn't want to be asked questions in that capacity. 
+She wants to be the president's daughter when it's convenient and the White House assistant to the president when it's not convenient. But remember, nepotism is illegal in the federal government for the 2.7 million civilian federal employees who work for the president and all of the uniformed military officers. But here we have the president holding himself and his family to a lower standard than the people he supervises. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   So Doug, other administrations have had family members in high profile positions. What's different about this? 
+Name: BRINKLEY ; Gender: female ; Race:  other,caucasian ; Dialogue:   Good ones. Robert Kennedy was attorney to John F. Kennedy except he put laws against nepotism because it became problematic in a lot of people's minds. In this case we're seeing Donald Trump really in my mind almost abusing his power. He's almost acting like an oligarch that he's able to bring whoever he wants to and members of his family, and they could benefit from being in the White House. 
+I mean, Ivanka Trump's living on private aviation around the United States that taxpayers are paying for. You know, it's become a problem that it's sort of a White House that seems to have a Mafioso attitude towards governance, not finding people who are true experts. Is Jared Kushner really our best Middle East negotiator when he can't even get security clearance? 
+Today President Trump's trying to get his personal pilot, now a big job in the government. So I think it doesn't seem well, it doesn't look well and it's the reason why Donald Trump is at 35 percent only in today's CNN poll. And with women he's at like 29 percent approval rating. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Yes, that's low. It's back down and it had gone up and now it's back down. I want to and you, Walter, tensions have been brewing between Kushner's security clearance and chief of staff John Kelly over this issue. Kelly trying to prevent anyone with interim security clearance from being -- from having privy to classified information. And Kushner pushing back. The president punted the decision to General Kelly. What should he do? 
+Name: SHAUB ; Gender: female ; Race:  latino,african ; Dialogue:   You know, again, this all goes back to the original question about nepotism because this is the exact kind of problem you fear in a nepotism situation. You mentioned other people in the White House and brought in family members, but the last one was John Kennedy. And they passed the anti-nepotism statute because they did want like it. 
+And in fact in the 50 years that that statute has been in place the Department of Justice has been asked five times whether presidents can bring family members into the White House. And for 50 years the first four times they said no and then minutes after the inauguration they changed the interpretation for President Trump. 
+The problem we're seeing now with Jared Kushner is this the exact kind of thing to worry about in a nepotism situation. It was pretty much foreseeable that it would happen in one form or another. 
+So now you have Jared Kushner having trouble getting security clearance. And with all the reporting it certainly seems like they've pulled their punches on just simply declining security clearances for people and they are carrying them on interim clearances for far longer than they should. 
+And now it's not clear because they're not telling us who still has a clearance who hasn't gotten a clearance, who's on an interim clearance. But it certainly creates the impression and some decent reasonable suspicion that Jared Kushner is being allowed to continue to access this information. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   It makes you wonder if they realize if they work for us instead of the other way around. 
+All right. Thank you. I appreciate it.
+When we come back, would President Trump really have run into Stoneman Douglas High School unarmed to stop the shooter like he said he would have done? Well, we're going to take a look at some of on our interviews from his past that may answer that question for you. 
+(COMMERCIAL BREAK)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Well, the president had a lot to say about the rampage shooting at Stoneman Douglas and predicatively he inserted himself right into the middle of the story. 
+Let's bring in now CNN contributor Michael D'Antonio, he's the author of "The Truth About Trump." Michael, thank you very much for coming in. First off, what do you -- what's your reaction to the president saying he would run in without a weapon if he was there? 
+Name: MICHAEL D'ANTONIO ( CONTRIBUTOR, CNN) ; Gender: male ; Race:  caucasian ; Dialogue:   I'm sure he would. What would he get 10 feet before he would have to stop and catch his breath? This is 71-year-old man who had four deferments when he could have served in the Vietnam War with a gun in his hand, but instead he chose not to. 
+So, all right. This idea that this is physically courageous man who would be committed to risking life and limb I think is laughable. But yet, he'll stand up and do this and assume that his base is going to applaud him. And it's no different than the guy at the end of the bar saying this kind of thing. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   So, past actions have been some indication of how one would react in certain circumstance or similar circumstances. So I want to play this now. This is Donald Trump on the Howard Stern show in 2008 about the time an elderly man fell off the stage in front of him at a charity event at Mar-a-Lago.
+(BEGIN VIDEO CLIP) 
+Name: DONALD TRUMP ( PRESIDENT OF THE UNITED STATES) ; Gender: male ; Race:  caucasian ; Dialogue:   So you have all these really rich people and a man about 80 years old, very wealthy man, a lot of people didn't like him, he fell off the stage. So what happens is this guy falls off right off the stage, hits his head and I thought he died. And you know what I did, I said, my God, that's disgusting and I turned away. 
+I couldn't, you now, he was right in front of me. I turned away. I don't want to touch him. Now the marines he's bleeding all over the place. I felt terribly, you know, beautiful marble floor didn't look so good. It changed color, it became very red. And you have this poor guy, 80 years old, laying on the floor unconscious and all of the rich people are turning away, my God, this is terrible. This is disgusting. 
+But you know, they are turning away. Nobody wants to help the guy. His wife is screaming. She's sitting right next to him. She's screaming. What happens is these ten marines from the back of the room, they were so far back, it's a huge ballroom, they come running forward, they grabbed him, they put the blood all over the place and it's all over their uniforms. 
+They're take him to this swipe. They ran him out. They created a stretcher. They call it a human stretcher. They put their arms out, like five guys on each side. They ran him out. I never saw it they ran out.
+Name: UNIDENTIFIED MALE ; Gender: male ; Race:  caucasian ; Dialogue:   You would never do that? 
+Name: TRUMP ; Gender: male ; Race:  caucasian ; Dialogue:   I would say get that blood cleaned up. It's disgusting. I forgot to call -- the next day -- I forgot to call to say is he OK. He was OK. 
+Name: UNIDENTIFIED MALE ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: TRUMP ; Gender: male ; Race:  caucasian ; Dialogue:   It's just not my thing. 
+(END VOICE CLIP)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   I'm not saying it's a disaster, I mean, if you can an elderly person -- most people would probably run in to help an elderly person or say are you OK. (CROSSTALK)
+Name: D'ANTONIO ; Gender: male ; Race:  caucasian ; Dialogue:   You pick him up and carry on.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Can we get someone to help. You wouldn't turn away and my God, it's disgusting and beautiful marble floor. 
+Name: D'ANTONIO ; Gender: male ; Race:  caucasian ; Dialogue:   And he forgot to call the next day. You know, picking up the phone was too much for him but he's going to run into a building where there's an active shooter. Absolutely makes no sense at all. But this is a president who loves to tell stories. He's not a man of action. He's a man of words. And so he reads these tales to embroider his image. He's at the hero of every story he tells and as he told me he's the star of his own comic book and he writes it every day. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Well, later in that interview Trump told Howard Stern, "I'm not good with medical. In other words, if you cut your finger and there's blood pouring out, I'm gone." It's not the first time he's puffed himself up, you know, with that sort of image. But CNN's Chris Cillizza calls him the Walter Mitty, the Walter Mitty conflict. 
+Name: D'ANTONIO ; Gender: male ; Race:  caucasian ; Dialogue:   Well, the question is now which one will be the joke? So when he gets caught in something he'll say it was a joke. You know, the person who insults you, who insults, in this case law enforcement officers who are brave, who do run into dangerous situations now he's going to say, well, which one is the joke? Is it the joke about Parkland or is it the joke about the person who fell down in front of him and he did nothing. I wonder which one. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Thank you. I appreciate it. When we come back, it's a form President Trump started using on the campaign trail and mentioned as recently as last week. 
+(BEGIN VIDEO CLIP)
+Name: TRUMP ; Gender: male ; Race:  caucasian ; Dialogue:   Did anyone ever hear of me do the snake during the campaign? Because I had five people outside say, could you do the snake?
+(END VIDEO CLIP)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   But you maybe surprise to learn its origins. A 60 black activists. His daughter say the president is completely, is completely missing the point. They're going to join me next.
+(COMMERCIAL BREAK)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   So the president loves to tell a story that he refers to as the snake from the campaign trail to his speech at the CPAC conference. He used it as a message to blast immigration.
+(BEGIN VIDEO CLIP)
+Name: TRUMP ; Gender: male ; Race:  caucasian ; Dialogue:   Take me in for heaven's sake. Take me in, tender woman sighed the vicious snake. I saved you, cried the woman, and you've bitten me, heavens why? You know your bite is poisonous and now I'm going to die. 
+(END VIDEO CLIP)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   President Trump is months the first to use that story. I want you to listen to singer/songwriter and social activist Oscar Brown Jr., the man behind the '60s soul tune "The Snake." 
+(MUSIC PLAYING)
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Those are the legendary Oscar Brown Jr., and Oscar Brown's daughters Maggie Brown and Africa Brown join me now. I'm so glad to have you guys on. Thank you for coming on. I wish we could have met seen each other in person. But we're via satellite now. 
+Name: MAGGIE BROWN ( OSCAR BROWN, JR.'S DAUGHTER) ; Gender: female ; Race:  eastasian,caucasian ; Dialogue:   Good to be with you.
+Name: AFRICA BROWN ( OSCAR BROWN, JR.'S DAUGHTER) ; Gender: female ; Race:  caucasian ; Dialogue:   Hi.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Africa, when you hear the president and then your father's song, how do you feel about the way the song has become part of the political discourse and the president using it? 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Outraged. Absolutely outraged. Oscar Brown, Jr.'s  words are being stolen to promote his hate message and intolerance. And it's absolutely wrong. We do not agree. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Absolutely not. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   How do you feel about it? 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Well, just as she said. There's such a thing are they call it fair use, supposedly. They say that because he's not singing it or playing the music. But fair use also would be given for educational purposes. And this is clearly political. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   It's a political agenda that deals with separatism, racism, sexism, and it's the kind of thing that polar opposite to what Oscar Brown, Jr. was about. And so to actually quote his words verbatim every time, pulling it out of his breast pocket as if it's this coveted thing that makes him a rock star and people of starting to request it because it's in popular demand when he does it. You know, that totally is insulting. 
+Now never as we came into the building, there were great quotes of men that made great achievements. Nonetheless, than my father has made in his lifetime and career. And they absolutely put the names of the men that said those quotes on the walls. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   No proper credit has been given to the author of these words. And really what our father stood for, the U.S. government system has for so long not just exploited, dehumanized, and terrorized and tormented people of color for thousands of years, this is no different than that. The true colonizer form. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Do you think he understand -- do you think he even knows the origin of the poem or who the author really is? Do you think he knows it? 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   I don't.
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   I think he does. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   I don't see how he couldn't. There were cease and desist letters that have been published both in New York and Chicago about a good year ago. Because of course he's been at this about two years, using these. We became aware of it some time ago. And of course our hands always felt like they were tied by this law, not everything that says, no, we can't do anything, and who wants to bother standing in line to sue him for things? 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Because we don't have -- we don't have that kind of power or lawyer or anything like that. 
+(CROSSTALK)
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Or representation. So and that's not the point. My first thing was conflict. I don't really want my father's name coming out of his mouth. And it wouldn't make sense. It just wouldn't makes sense because see the way Trump is doing this whole using these words to promote...
+(CROSSTALK)
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   To promote hate. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   ... an anti-immigrant agenda that, you know, I mean, I'm no historian, you know, I'm often just busy doing the archives and working on this music. But some say that this is -- that this kind of propaganda is fascist, you know, and that it leads to the kind of thing that galvanizes people in the wrong direction. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Well, the best way...
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   And what this country needs.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   So that people will know, you have this platform now, the origin of the song is an allegory. Explain the original message of the song so they know what it really means instead of the way the president is using it. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   OK. The elephant in the room is that Trump is the living embodiment of the snake that my father wrote about in that song. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Although that wasn't the original meaning of the song. The original meaning of the song is on Aesop's fable.
+(CROSSTALK)
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Something like that. M. BROWN:  It's a commonsense thing that if you bring a frozen snake home and expect it when it warms up that it will not bite you, when what a snake does is bite, that's what we always took from it. You know, the fact that, yes, don't lie down with dogs, you won't wake up with fleas kind of sensibility. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   And it's African tradition to use stories to impart wisdom. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Right.
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   And that's exactly what that was, teaching us about that. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   It's a woman who takes a snake...
+(CROSSTALK)
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   And so, of course in the last 50's...
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   The woman takes in a snake and nurses it back to health, only to be bitten by the snake again, which is again an allegory.
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Right.
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   You're saying Trump is a living embodiment of that, so he should be using...
+(CROSSTALK) 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes, it is... 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Most people comment.
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   That's right, unless he wants to change that last word when it says, you knew, Don, when I was snake before you took me in, he could say, before you voted me in. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Well, so your father had worked with so many legendary artists such as, Max Roach, the legendary Max Roach.
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Nina Simone. For those that don't know him, tell us a little bit about your father. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes. Cannonball Adderley. Tell the folks about him? 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes. Our father was a, he was a very -- he was a race man. He started in Chicago, he was listening to street criers. He pulled from the community and he always gave back to the community. He always worked with people, with all people of color. He was never against immigrants. 
+And I would like to stress that. My father's words are being used to support something that he would not back. He's attacking people of brown color and my father supported people all the time of all color. And this is just -- it's a travesty. 
+So our dad was a great jazz musician. A poet. An activist. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Right.
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   A writer. He has plays, songs, sonnets. That wasn't all that he wrote. He wrote things like a new generation is now on the scene, a new generation not ugly or mean. We're standing for right, demanding fair play for everyone and we just won't have it any other way. He wrote beautiful music. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Africa and Maggie Brown. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Thank you so much, it was indeed a pleasure to meet you. 
+(CROSSTALK)
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Pleasure to be with you. Yes. People are -- yes, thank you. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Thank you.
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   People are standing together on March 1st for solidarity for 11 minutes of silence for the 11 million undocumented immigrants in this country. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   As we do. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   As we will. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Thank you very much. 
+Name: LEMON ; Gender: male ; Race:  caucasian ; Dialogue:   Well, thank you. Well, that's good, that's my birthday, so let's hope there's something better coming than me getting older. Thank you, guys. I can't wait to meet you in person again, thank you so much, see you soon. 
+Name: BROWN ; Gender: male ; Race:  caucasian ; Dialogue:   Me, too, thank you. Ba-bye.
+(MUSIC PLAYING) 
+###END
+(COMMERCIAL BREAK)
+</p>

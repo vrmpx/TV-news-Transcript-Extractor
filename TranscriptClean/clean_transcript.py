@@ -42,7 +42,11 @@ directories = ["transcript_data/FOX/Hannity/",
                "transcript_data/MSNBC/All_In_with_Chris_Hayes/",
                "transcript_data/MSNBC/The_Beat_with_Ari_Melber/",
                "transcript_data/MSNBC/The_Last_Word_with_Lawrence_ODonnell/",
-               "transcript_data/MSNBC/The_Rachel_Maddow_Show/"]
+               "transcript_data/MSNBC/The_Rachel_Maddow_Show/",
+               "transcript_data/CNN/Anderson_Cooper_360/",
+               "transcript_data/CNN/CNN_Tonight/",
+               "transcript_data/CNN/Erin_Burnett_OutFront/",
+               "transcript_data/CNN/The_Lead_with_Jake_Tapper/"]
 
 outputdirec = ["output_clean/FOX/Hannity/",
                "output_clean/FOX/The_Five/",
@@ -51,14 +55,16 @@ outputdirec = ["output_clean/FOX/Hannity/",
                "output_clean/MSNBC/All_In_with_Chris_Hayes/",
                "output_clean/MSNBC/The_Beat_with_Ari_Melber/",
                "output_clean/MSNBC/The_Last_Word_with_Lawrence_ODonnell/",
-               "output_clean/MSNBC/The_Rachel_Maddow_Show/"]
+               "output_clean/MSNBC/The_Rachel_Maddow_Show/",
+               "output_clean/CNN/Anderson_Cooper_360/",
+               "output_clean/CNN/CNN_Tonight/",
+               "output_clean/CNN/Erin_Burnett_OutFront/",
+               "output_clean/CNN/The_Lead_with_Jake_Tapper/"]
 
 
 def main():
     readgit()
     readfiles()
-    resp = gendre('bush', 'x').GET()
-    # print(resp.json().get('gender'))
 
 
 def readfiles():
@@ -74,8 +80,11 @@ def readfiles():
             if i < 4:
                     lines_of_text = cleanfox(lines_of_text)
                     file_out.writelines(lines_of_text)
-            else:
+            elif i < 8:
                 lines_of_text = cleanmsnbc(lines_of_text)
+                file_out.writelines(lines_of_text)
+            else:
+                lines_of_text = cleancnn(lines_of_text)
                 file_out.writelines(lines_of_text)
 
 
@@ -102,6 +111,7 @@ def addgenderace(precolon):                            #find most similar name i
 
     maxsimilarity = 0.0
     race = ""
+    gender = "N.A"
     global celeb_names_dict
     global gender_dict
 
@@ -293,6 +303,93 @@ def cleanmsnbc(lines_of_text):
             endindex = i+1
             lines_of_text[i+2] = lines_of_text[i+2].lstrip()         #removing leading white space from footer
             break
+
+    lines_of_text = cleanspeakernames(lines_of_text, startindex, endindex)
+
+    return lines_of_text
+
+
+def cleancnn(lines_of_text):
+
+    endline = "END\n"
+    footer = "</p>"
+    startline = "START\n"
+    header = "<br/>"
+    startindex = 0
+    endindex = 0
+
+    for i in range(len(lines_of_text)):
+        j = lines_of_text[i].find(header)
+        if j != -1:
+            lines_of_text[i] = lines_of_text[i].rstrip()  # remove extra space on the right
+
+            squarelineindex = -1                        #line index with timestamp
+            if lines_of_text[i].find("[") != -1:
+                squarelineindex = i
+            elif lines_of_text[i+1].find("[") != -1:
+                squarelineindex = i+1
+            elif lines_of_text[i+2].find("[") != -1:
+                squarelineindex = i+2
+
+            if squarelineindex != -1:
+                startstamp = lines_of_text[squarelineindex].find("[")
+                endstamp = lines_of_text[squarelineindex].find("]")
+                lines_of_text[squarelineindex] = (lines_of_text[squarelineindex][:startstamp] + lines_of_text[squarelineindex][endstamp + 1:]).lstrip()  # remove timestamp
+
+            if lines_of_text[i].find(":") != -1:            #find colon and then remove any ( ) expressions before :
+                startbracket = lines_of_text[i].find("(")
+                if startbracket != -1 and startbracket < lines_of_text[i].find(":"):
+                    endbracket = lines_of_text[i].find(")")
+                    lines_of_text[i] = lines_of_text[i][:startbracket] + lines_of_text[i][endbracket+1:]
+                    lines_of_text[i].lstrip()
+
+                header = lines_of_text[i][:lines_of_text[i].find(header)+len(header)]       #add start line
+                lines_of_text[i] = header + "\n"
+                lines_of_text.insert(i + 1, "\n###" + startline)
+                startindex = i + 1
+                dialogue = lines_of_text[i][lines_of_text[i].find(header) + len(header):].lstrip()
+                lines_of_text.insert(i+2, dialogue)
+
+            elif lines_of_text[i + 1].find(":") != -1:
+                startbracket = lines_of_text[i].find("(")
+                startbracket2 = lines_of_text[i+1].find("(")
+
+                if startbracket != -1:
+                    endbracket = lines_of_text[i].find(")")
+                    lines_of_text[i] = lines_of_text[i][:startbracket] + lines_of_text[i][endbracket + 1:]
+                    lines_of_text[i].lstrip()
+
+                if startbracket2 != -1 and startbracket2 < lines_of_text[i + 1].find(":") :
+                    endbracket = lines_of_text[i+1].find(")")
+                    lines_of_text[i+1] = lines_of_text[i+1][:startbracket] + lines_of_text[i+1][endbracket + 1:]
+                    lines_of_text[i+1].lstrip()
+
+                lines_of_text[i] = lines_of_text[i] + "\n"
+                lines_of_text.insert(i + 1, "\n###" + startline)
+                startindex = i + 1
+
+            elif lines_of_text[i + 2].find(":") != -1:                  #specific case for this batch of transcripts
+                lines_of_text[i+1] = lines_of_text[i+1] + "\n"
+                lines_of_text.insert(i + 2, "\n###" + startline)
+                startindex = i + 2
+            break
+
+    for i in range(len(lines_of_text)):                                       #check extra parantheses before footer
+        if lines_of_text[i].rstrip() == footer:
+            if lines_of_text[i-2].find("(") != -1 and lines_of_text[i-2].find(":") == -1 and lines_of_text[i-1].find(":") == -1:       #edge case for end line
+                lines_of_text.insert(i-2, "###" + endline)
+                endindex = i-2
+            elif lines_of_text[i-1].find("(") != -1:
+                lines_of_text.insert(i-1, "###" + endline)
+                endindex = i-1
+            else:
+                lines_of_text.insert(i, "###" + endline)
+                endindex = i
+
+    for i in range(len(lines_of_text)):                                 #remove timestamps from the front of lines
+        lines_of_text[i] = lines_of_text[i].lstrip()
+        if lines_of_text[i].find("[") == 0:
+            lines_of_text[i] = lines_of_text[i][lines_of_text[i].find("]")+1:].lstrip()
 
     lines_of_text = cleanspeakernames(lines_of_text, startindex, endindex)
 
