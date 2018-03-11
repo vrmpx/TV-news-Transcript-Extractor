@@ -1,0 +1,411 @@
+<p class="cnnBodyText"><br/>
+###START
+Name: WOLF BLITZER ( CNN ANCHOR) ; Gender: male ; Race:  caucasian ; Dialogue:   Ivan Watson, with that report thanks very much.  That's it for me.  Erin Burnett "OutFront" starts right now.
+Name: ERIN BURNETT ( CNN ANCHOR) ; Gender: female ; Race:  caucasian ; Dialogue:   Good evening, I'm Erin Burnett.  OutFront tonight breaking news.  Defiant and speaking out, Trump's former campaign aide Sam Nunberg refusing to comply with the grand jury subpoena in the Russia investigation.  The Subpoena right here.  And he's challenging Robert Mueller to arrest him.  But Nunberg is going to be my guest onset right in just a moment to talk about this.
+We have the subpoena that Mueller's team issued him.  Here it is, it's two pages.  And if Sam Nunberg was not a household name, he is now, tonight he is.  Nunberg worked as advisor for the Trump campaign until August of 2015.  He was fired then from the campaign for what they said where offensive and racist messages posted online.
+Tonight, he is refusing to comply with the Mueller subpoena.  He says he doesn't want to waste his time turning over every single message that he sent and received during the campaign including things like text messages and specially one from his mentor Roger Stone.
+Nunberg has already talked to Mueller's investigator and said today the he thinks Mueller's team may have something on the President. Nunberg is also accusing former campaign advisor Carter Page of colluding with the Russians.  And he's saying President Trump himself knew about that Trump Tower meeting, we all know about that meeting, right?  The one between Trump's son, his campaign officials, a Russian lawyer, Jared Kushner, they were all in the room, right?  They were promised dirt of Hillary Clinton.  Sam Nunberg is saying the President knew about it.  He of course -- they have all said he didn't.
+So we're going to talk to Sam Nunberg about all of these accusations and the evidence that he has.  Over at the White House today Press Secretary Sarah Sanders was asked about Sam Nunberg and tried to shut him down.
+(BEGIN VIDEO CLIP)
+Name: UNIDENTIFIED FEMALE ; Gender: male ; Race:  other,african ; Dialogue:   You just said on MSNBC moments ago I think he, meaning the President, may have done something during the election but I don't know that for sure.  Your reaction.
+Name: SARAH SANDERS ( WHITE HOUSE PRESS SECRETARY) ; Gender: female ; Race:  african ; Dialogue:   I definitely think he doesn't elect for sure because he's incorrect.  As we've said many times before there was no collusion with the Trump campaign.  Anything further on what his actions are, he hasn't worked at the White House. So I certainly can't speak to him or the lack of knowledge that he clearly has.
+(END VIDEO CLIP)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   All right, Sam Nunberg will be here in just a moment.  I want to go to Jeff Zeleny though, OutFront, first at the White House. Jeff, how our White House officials responding to Nunberg's comments and the point that he is making behind the scenes tonight?
+Name: JEFF ZELENY ( CNN SENIOR WHITE HOUSE CORRESPONDENT) ; Gender: male ; Race:  caucasian ; Dialogue:   Erin good evening. You heard the Press Secretary Sarah Sanders say right there, look he doesn't work here at the White House and there is a bit of anger from White House officials who say look he has not worked for President Trump even in the general election campaign.  He didn't make it through the summer of 2015.  That said they are very concerned.
+And I talked to several officials who said they could not stop watching all of these interviews this afternoon it is -- you know, it was bizarre.  It was interesting.  It was something that they could not, you know, control.  And that of course is the biggest worry here.
+Now, the question is it is Monday evening, Erin.  That subpoena has him testifying on Friday.  How does this week play out? The White House did not want to have this in the headlines this week.  They wanted to talk about anything else except this.  They thought they turned the page from this of course this investigation continues to dominate everything here.  But they do point out again and again that he doesn't have the President's interest at heart and He was fired from the campaign.  That said it is something that everyone here has been watching.  I suspect they'll be watching the interview coming up, Erin.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   All right.  Thank you very much Jeff Zeleny.  And so now let's go to Sam Nunberg.  He's here with me tonight on set.  Former Trump Campaign Advisor, Sam, thank you.
+Name: SAM NUNBERG ( FORMER TRUMP AIDE.) ; Gender: male ; Race:  african ; Dialogue:   Thank you.  Well, you know, I was a campaign advisor from 2011 to 2015.  When everybody was laughing at Donald Trump. So for Sarah --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You were the campaign advisor from 2011?  So he was thinking about running that long?  It was that explicit?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.  So for Sarah Huckabee to start criticizing me, I would say and I know you may not like the way I say it.  She should shut her fat mouth.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   I don't that all I find that, you know, irrelevant.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   It's irrelevant, but I understand, but yes. BURNETT:  But you didn't comment on this one.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   But she says I'm bizarre, I'm bizarre.  Yes, she -- it's pretty bizarre what her father does.  That to me is pretty bizarre.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   OK.  We won't get into it.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK, no, no, no, no I don't actually don't think she used the word bizarre.  She said I think he definitely doesn't know that for sure because he's incorrect.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I don't no for sure.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   She's talking about what the wrong doing is I don't think she used the word bizarre at all to refer to you.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No, but she had her people do it on background for the interview.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK, but what does her appearance have to do with it?  I just want to be direct about that.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I didn't mean -- no.  I meant that she should shut her mouth about talking about me.  That's what I meant.  Not about here appearance.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.  So, look, I wasn't planning on asking about this, this early in the interview --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes ma'am.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   -- but because you talked about her fat mouth, I want to ask you about this because it is important.  You've done six interviews in the past four hours, right you've been busy.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Six?  Maybe six, yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Six is our count, OK.  So look, you know, bizarre was a word that some White House officials were using to describe some of your interviews.  Nuts, is another one.  OK, so that's where the word came from so that's probably where you got it.
+Name: NUNBEERG ; Gender: female ; Race:  latino,caucasian ; Dialogue:   But, you know, Erin -- but Erin I would like whoever said that to say it on the record.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK, but let me ask you this.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Because you talked about her fat mouth.  You called her a fat slob in another interview that you did on New York One.  I reached out a Trump ally before you came on to say what's your -- what do you think about Sam, what would you say?  And essentially this person told me, I just want to be direct because he's not the only one to say it. NUNBERG:  Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You're drunk or off your meds.  At least half a dozen other CNN reporters have received similar messages.  What do you say to them?  I mean is this a hit job or is there's something wrong?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No, I don't care what they say.  I think it's fun -- you know what I really could care less what the Trump White House has to say about me.  They have a President, as you know, what was your poll that you produced last week, Erin?  What is he at 38%?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You're talking about his approval rating?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, his approval rating.  So any of them to criticize me, I could tell you, if Roger and me were in there, Trump would be at 55%.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Roger Stone? 
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, Roger Stone.  So whatever they want to say they can say whatever they want about me, I don't care.  Once again, I would say, they're doing a terrible job for him.  And they've been doing terrible job since he's been alive
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Are they trying to do some coordinated hit job on you by reaching out to reporters and saying those things about your state of mind today?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I don't know.  This is the first thing -- this is the first time I've heard about this.  They are more than -- they can do whatever they want.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Well I want you to give a chance to response because I think it is something people are talking about and I think it's important that you have a chance to respond to it, Sam.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I would once again say that Sarah Huckabee is a terrible press officer.  That Trump has a 38% approval rating.  That the Republicans are going to lose the House in the midterms and that's a fact.  And they can say whatever they want about me.  They've treated Roger and me terribly.  Now, Roger won't say that.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   No, he won't.  As the matter of fact that's not what he said at all today.  He referred when we reached out to him about what you've been saying, right?  That he's been treated terribly.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, what did he say?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   I'm just going to look for his exact quote.  He said that I was briefly part of the Trump campaign and have been the President's friend and advisor for decades.  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, he was.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   He didn't all say that he is been treated terribly.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   But he was, but he was.  And the minute your former colleague, by the way to me it's a joke that your network hired him. But the minute your former colleague was hired -- 
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Who are you talking about?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Corey Lewandowski.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   OK.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Former campaign chief.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Former campaign -- yes, campaign chief.  Which was a joke in itself, I mean after he was going to get fired from AFP in New Hampshire.  But the minute he was hired there were two separate rules for people like Roger and me and people like Lewandowski.  Now, I can tell you as we have discussed before, I came up with the wall.  I came up with a lot of that messaging.  Corey didn't come up of anything --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   What do you mean two separate sets of rules?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   There are two separate rules.  Trump decided that he was always going to treat Roger and me in a very bad way and he going to treat Corey, his special Corey, in a different way because he valued him more.  Now that could have been something I learned after working for him, but yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Why is Roger not giving the same message as you are tonight then?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I don't know.  I don't know and I haven't spoken to him in a week.  I don't know.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   When is the last time you spoke to the President and he did an interview?  What was it February 28 on MSNBC?  You did an interview?  And you said Trump saw that interview, did you have chance to speak with him, did you two spoke into -- when is the last time you spoken to him?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I have not spoken to Donald Trump since a week before he swore into the presidency.  Then I would say, once again, I know he may not value this or whatever but I'm a supporter of his despite what he thinks.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You're a supporter even though you're raving about his 30 something percent approval rating and how horrible --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I think he should with doing better.  I think he's done very good things on foreign policy.  I think the economy is doing well.  I don't like, Erin, he's spending money like a drunken sailor.  I've never seen something like this and I don't know why because we have a 3 % GDP.  He shouldn't be doing this.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   I want to just talk a bit more about this.  We have now the actual subpoena which I know you've provided us.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes. BURNETT:  OK.  So the subpoena asked for information, your e-mails, your text, your communications with various people 10 people in fact.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Carter Page, I never talked to Carte Page.  I think I talked to Corey Lewandowski after November 1st?  October 15.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So Carter, Corey, The president, Hope Hicks, Keith Schiller his --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   -- bodyguard is not a full word to describe it, but he also played that role, close advisor, Michael Cohen, his personal lawyer, Paul Manafort, Rick Gates, Roger Stone and Steve Bannon.  Are there any of those people that you'd be willing to?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Here is what I'd be willing to do and I've thought about this in a previous interview.  I would be willing to go in for testimony.  I want it to be fair.  I don't want them to target Roger. They could be targeting -- what I think is -- look Paul Manafort, Rick Gates, crooks.  They were crooks, they didn't pay taxes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   And not been charged.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I believe that they were crooks.  And I've heard they have been very loose about money.  What I'm not going to have is to help Mueller's team target Roger Stone.  Roger is my mentor.  Roger is like a surrogate father to me.  And I'm not going to do it.  I'm not going to do it.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Why though fall on the sword for someone else?  And I asked that very specifically.  OK, Susan McDougal and look you remember her, right?  But she was involved McDougal -- I'm sorry, was involved in the White Water investigation, right?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   She did not comply with the grand jury subpoena. 2 NUNBERG:  Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   She went to prison for 18 months.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Mueller is not going to send me to prison for this.  This is ridiculous, look at this.  Carter Page, I never spoke to Carter Page.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Well, then why wouldn't you be happy to provide your communications if there aren't any?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Because I'm not going to go over when I have 15 e-mails a day with Roger Stone --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   And Steve Bannon.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   -- and Steve Bannon and have to spend 80 hours.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK, but what I don't understand is --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   You know what?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You could go to prison for this, OK?  And if the communications do not show collusion with the Russians --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Right.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   -- why wouldn't you just go in and testify about them?  What do they show that you're so embarrassed of?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   They show nothing that I'm so embarrassed.  You know, -- but I don't believe 
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You said earlier that you talk about people that you hate.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   OK, it's fine.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Are there discouraging things you're just embarrassed, you were talking smack about others or what?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No, no, that's not the reason.  What I don't like and this is a separate issue.  Listen, I always find, Erin, that there are two separate rules for Republicans and Democrats.  Why did they not ask Hillary Clinton and Hillary Clinton's folks to produce these e-mails?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   In fact they will.  But I mean I know you've been bringing that point up today.  And that would be a separate investigation.  OK, that was the end fine, you can talk about that, but right now we're talking about the specific investigation about the Donald J. Trump and collusion to the Russian.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Ones again, Donald Trump did not collude with the -- Vladmir Putin is too smart to collude with Donald Trump.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Do you currently have a lawyer? 
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.  I have a very good lawyer.  Patrick Brackley.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.  What has Patrick told you?  Is he happy about these interviews today?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   About the interviews, no.  He didn't know about any of this until I did it.  And what happened was that I had a 3:00 p.m. deadline, Erin.  And I was going -- 
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   To respond to Mueller?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   To respond.  But they sent this to me on Friday.  Who am I? Am I some crook?  Ones again, Trump fired me within six weeks of the campaign.  By the way, after I saved him when criticize McCain that was Roger and me, but in any event --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, did you response -- I just want to be clear here 3:00 p.m.  So you did want to -- did hit the deadline before 3:00 p.m. and you told him no? NUNBERG:  No.  I started looking ahead of it --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You had a deadline and you didn't --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I started looking at this.  I've started going over my e- mails and I was like this is ridiculous.  What do I have to hand over all my e-mails to a federal investigator and why because they don't like me, because they don't like Roger Stone, they don't like Steve Bannon, they don't like Michael Cohn?  When did I talk to Michael Cohn after I was fired? It's ridiculous.  November 1, 2015.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   I still don't understand, if you don't have communications with any of these people, why you would have something to hide?  And then the ones that you do --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I have nothing to hide.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   If all of this is personally disparaging information about other people which I presume is there as it would be in most people's text, so what?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   First of all, I don't have --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   What I don't understand is why you'd be willing to go to prison, Sam?  I think that's what's confounding.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I'm not going to get sent to prison.  You think I'm going to get sent to prison?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   How do you know that?  I mean someone has been before.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   One person, fine.  You're mentioning from a long time ago. Do you think Robert Mueller is going to send me to prison, Erin, for this?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   I don't know.  But he certainly would be within his rights. And I'm certainly you've been thumbing your nose at him all day.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   You know, what really upset me?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   What?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Here is what upset me, is that I went and spoke with their investigators who are highly professional.  They've only said nice things about their investigation.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes, you said they were.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   They were extremely professional and it really showed me, by the way, I was very impressed that this was the government, you know, the government runs.  This was like a white-shoe law firm.
+And I sat there and I spent that, now they want me to go back.  I've just spent more money to go to D.C., I have to more money on legal bills and I have to go sit -- am I allowed to earn a living?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So is this about money?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No.  It's about the fact that I don't think it's right.  And also, I don't think it's right, once again, I don't think it's right in regards to the way Hillary Clinton was treated by the FBI.  And now let's be honest.  I've said to you repeatedly, not to you -- well we spoke the other day.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes, we've spoken before, you brought that.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I said that Trump, Trump caused this investigation.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes, you have said that.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Trump cause the investigation, Trump gave a less (INAUDIBLE), Trump had the Russians in later that week.  That's fine. But why do -- I mean do you know the way I've been treated by Donald Trump?  I mean I hate the guy.  OK, so for me --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Is there's something that we don't know about how he treated you?  Something just private I mean other than the fact that, you know, publicly he fired you they say to the Facebook, is there some kind of conversation or something that you could tell us about?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I was told I was not going to get fired when those Facebook posts were released.  Now at that point I thought that Corey Lewandowski and Hope Hicks had released them.  I was told I was not going to get fired.  I was then called that morning when Donald Trump did Sunday interviews with the Sunday shows.
+And you could see this, he did those interviews.  And then Trump called me afterwards to tell me I was being fired and that they were issuing a press release.  And he called me a low level part-time consultant.  I was being laughed at for years.  I supported him.  Like he was like -- I shouldn't have been but he was like a father to me. And he treated me like that when he fired me and he let Corey Lewandowski and Hope Hicks collude -- and by the way, mysteriously, Erin, then Corey's -- then Trump's cell phone is released the next day.  What a coincidence, right?  It was released on a Monday after I was fired on a Sunday.  I was told ones again, Trump told me, he told me in that conversation he was going to keep it quite.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Trump told you personally?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.  And then Corey called multiple reporters.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So Trump said keep this quiet.  Then he referred to you as a low-level --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   And he let them draft that statement.  And by the way, I want to say you this.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So is this pay back to him for treating you so badly?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Payback for him was I worked for Ted Cruz.  I mean let's get it out.  I worked for Ted Cruz.  I endorsed Ted Cruz.  But I did that at the point where he was going around campaigning with Chris Christie who got around five votes in New Hampshire and he was going to allow him to run his campaign and then he announced that Chris Christie was going to run the transition which was a joke in itself to me.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Do you have immunity?  Were you offered immunity by Bob Mueller's team?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   They say you're not a subject or target.  Now when you go in there what they say is as long as you tell the truth anything else you tell them, you're not going to get charged for.  And I told them all the truth.  I mean that was -- and once again they were very, very good when I went in there.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So everything you've told them they say they will not charge you for?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.  So back to this point about the texts.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Text, I don't even have text anymore.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Why would they can get them from your service provider?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   And there was unhappy to.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   And you know what I was thinking about today, by the way, I was thinking to save time, I've been advised against this.  Maybe I'll just give them my password.  My e-mail password because why do I have to go.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So then you're going to comply?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Then I would comply, yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So now you're saying you might comply.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I have no problem of complying in itself.  But I'm going to do is sit, Erin, for 15 hours after I've sat with them.  I have no problem if they get the e-mails.  Ones again Carter Page, never.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Is there more to these two pages to the subpoena, is there anything else that you received?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   This is the only communication that you talked on them --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   And there's something else I didn't get from my attorney that they say that you have to show up to the grand jury next Friday. This Friday.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   This Friday.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes. BURNETT:  So five, six, seven, eight, March 9th.  You're supposed to show up in front the grand jury on March 9th.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   That's what I've been told by my lawyer, yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK, and to your knowledge he did not respond either before 3:00 p.m. today.  She's just been watching -- you didn't taking to him today?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I tried to contact but they didn't call me back.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.  So on these texts you're -- Bharara, the former U.S. attorney, you know, he's been twitting about you today.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   What did he said?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   He said "I'm prepared to bet special Mueller's team already has Sam Nunberg's e-mails".
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I hope they do.  Then why do I have to do that -- why do I have sit here for 15 hours and do it like I'm a paralegal?  I did this work after I graduated college before I went to law school.  Why do I have to sit here and produce these things?
+I can tell you, Erin, that Steve Bannon or Roger Stone, I e-mailed with them like 30 times day.  It's how we communicate.  So I'd have to sit there and, you know, save everything.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Well, they've -- that's going to be save somewhere.  What you're saying is you're willing -- so then -- that you're assuming perhaps, right, that they have all these communications.  You're just unwilling to answer questions in front of a grand jury.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I'm not going to answer questions in front of a grand jury if they do not explain to me why I have to go in there.  Because the idea that, once again, that Donald Trump colluded with Russia is a joke.  Vladimir Putin is too smart to collude with Donald Trump. Donald Trump couldn't keep his mouth shut if Putin colluded with him.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   All right.  So I know the FBI investigators ask you a lot of questions about that specifically.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   How do you know Donald Trump would not collude with the Russians or allow others around him to do that?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   You know, there was an issue when Trump said that he liked Putin being in Syria.  If you have recalled this in the beginning of the election and he said that.  And we discussed this.
+First of all it was inherent that Trump understood because he's a very good understanding of middle America that average Americans at that point where we're not going to remember -- remember ISIS was chopping off American's heads at that point.  Barack Obama was pretty pathetic. He had withdrawn from Iraq.  This is my opinion. BURNETT:  Right.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   He had withdrawn from Iraq and we had watched ISIS take over this wide wrath of land.  And Trump said, I think Putin will do a better job basically against the ISIS over Donald Trump -- over Barack Obama.  And I said -- at that point, I said look, it could be a problem.
+People like Marco Rubio will come out against us.  Jeb Bush that were being very anti-Russian.  On the other hand, Rand Paul, Ron Paul -- Ron Paul-Rand Paul supporters wouldn't.  And once again as I said because Barack Obama was so weak against ISIS for the Republican primary electric (ph), it wouldn't be so bad if Trump took that position.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, specifically I know that you have said that you do think that they have something on Donald Trump?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   And the investigators.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I don't know what it is.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   From the interview.  But you're confident in that.  So what made you feel that way?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I can't explain it unless you were in there.  I can't explain unless you were in there.  And that's the answer.  You're not going to like that answer.  I can't explain it.  But they have something.
+Now, remember, we learned about Trump Tower Moscow OK?  Right.  And then Trump signed a letter of intent to do business with Trump Tower -- you know, with Russia.  And Mike -- And Michael sent the thing to the -- 
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   That tower of course which never went ahead, but yes.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   You're right.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   And I had never known about that, obviously.  We had never -- you know, until I read about it.  I just get a feeling he did something.  And by the way, you're going to be fine when it comes out what he did but people like Sean Hannity, Lou Dobbs, Jeanine Pirro, they're going to be have to do -- they're going to be very embarrassed when it comes out.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   I will ask.  All right.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Well, let's just take a pause there.  If you don't mind we're going to squeeze in one commercial come back we'll talk about the Trump Tower meeting.  It's all which I knew you have a lot to say about.  So we'll take a quick break.  We'll be right back.
+(COMMERCIAL BREAK)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   We're back with our breaking story.  Trump's former campaign aide Sam Nunberg refusing to comply with the grand jury subpoena and the Russia investigation.  Sam Nunberg is back with me and he have explained there's the subpoena which asked for your communications between yourself and 10 people involved with the Trump campaign, and you're saying also asks you to appear in person before the --
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   -- grand jury this Friday.  OK.  I want to ask you about something very important, which is the Trump Tower meeting.  The one in which Paul Manafort attended, Jared Kushner attended, Donald Trump Jr. attended among others where they were told that there would be dirt on Hillary Clinton.  There's been a consistent message from team Trump, which is that Donald Trump himself did not know about this meeting.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   What do you think?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You tell me.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I mean if you see it, if you see there's something he said, I already saw that within a week, or he says something we're going to find something at about Hillary Clinton within a week.  I don't know why he couldn't just admit that he knew about this meeting if indeed I believe he did.  If he did, I don't think -- now, remember you're talking to somebody who doesn't think there's anything wrong with that meeting.  So you're sitting here talking to somebody.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So you're saying he knew.  You personally think that's collusion because you've said he don't think he colluded but you believe that he knew about that meeting.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I think he knew it.  Look, I think he probably knew in advance and --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   In advance?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.  I think if I had to guess Don informed him about it. And then once again, I know -- Once again, Don gets an e-mail.  If you look at the e-mail, the e-mail says that Hillary Clinton was indicted by the -- by whatever the equivalent on the Russian justice or whatever it is, Department of Justice.  OK.  So why should we know about it if that was true
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So I -- 
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   And by the way, I wanted to bring something else up with you and I was thinking about this.  And you've been very fair.  Thank you very much.  Did they ask Hillary Clinton when they were investigation Hillary Clinton who made a point not to protect her e-mails, did they ask her the people -- BURNETT:  I don't know.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   -- that they were going for something like --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   I don't think we ever got provided the subpoenas as you have finally chosen to provide yours to us.  On this Trump Tower meeting, now I do want to ask you, Sam, because I think this is just important to people understand.  Do you have to campaign in August of 2015?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, I have no idea.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   All right.  So the meeting was actually in June 2016.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Correct.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So you're saying you think he knew in advance.  You're saying that base on your knowledge to the individuals and how they interact with each other but not base on actually having been there.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, correct.  Yes, correct.  It's my opinion.  And by the way, once again, I don't think there's anything wrong with that.  I don't think there's anything wrong.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Do you think there's no way that that meeting happened without Don, Donald Trump Sr. -- I'm sorry, Donald Trump himself knowing about it.  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   You don't know though the travesty of that whole thing was when it was reported by the New York Times initially that they handled it so badly, the communications of it because there no problem with it.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   In your opinion.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   In my opinion, yes.  There could be.  And they just consistently, you know, got caught in lies if you remember that?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, I remember watching the show.  So they consistently got caught.  The think of -- the first initial report is Sunday, then it's next, you know, then it's Monday, Tuesday -- why not just tell the truth?  What was the big deal?  There was no deal there.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, what about Carter Page?  He's another former Trump aide. 
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Never spoken to --  
+(CROSSTALK)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Right?  He's on the list.  They want your communications with him of which you say there are none.  
+We've learned he was eventually under surveillance, of course, for suspected --  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Look, I think -- I think Carter Page was dealing with the Russians.  I think he was colluding --  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You used the word colluded, OK.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I think he was colluding with the Russians, sure.  Now, I don't think that he had the power within the campaign, but I think he was trying to put himself off that he had this authority, that he could stop sanctions, he could help, you know, with these -- with the gas company.  Remember, he gives that speech that summer.  Yes, sure, I think he colluded.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   All right.  He responded today, because --  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, what did he say?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   -- you have been saying this today, he calls your claim that he colluded laughable, and he texted to our Manu Raju, our congressional reporter, quote, asked him, you, for specific rather than more mindless rhetoric.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Well --  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   What specifics can you give?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Why did he -- why did he go to Russia that summer?  Remember that?  He went to Russia that summer day and he was an energy consultant, and what an Obama sanctioned Russia on energy.  What do you think -- what was he doing there?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So that's -- that's where you get --  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   That's -- yes, I don't think he knew about the emails.  I don't -- once again, I don't think anybody in the campaign coordinated with Russia on releasing Hillary Clinton's emails.  I also believe Vladimir Putin did do the emails.  
+And this whole idea when they start defending it, when they you know when they put it on another network, that they start saying oh it wasn't Russia -- yes, no, it was Russia.  It was Russia.  And Julian Assange coordinated with Russia.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, let me just come back to something important here because Julian Assange, obviously, he's WikiLeaks.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Roger Stone, who you've referred to as your mentor and father figure just moments ago to me, has testified to Congress that he did communicate with WikiLeaks via an intermediary.  But "Atlantic Magazine" has published private magazines between Stone and WikiLeaks. 
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   OK.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Why are you putting your reputation on the line for Roger Stone, no matter how much you like the guy?  Why are you putting your reputation on Roger Stone? NUNBERG:  Because here's my problem is what I think is -- and once again and you may not -- it may not sound reasonable, I think that there are separate rules for Republicans and Democrats, like the fact that Hillary Clinton got away with what she did, with what her husband was doing during Barack Obama's administration, it's ridiculous.
+What they went after -- now, Manafort and Gates I believe --  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   They're pointing at some of the ten people --  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, I believe -- 
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   -- they're asking.  
+(CROSSTALK)
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, OK, Manafort and Gates, yes, I think that they did illegal, nefarious activities with finances.  But, Erin, here's what I believe, and you -- and this is just my opinion, is that it was -- they decided and for years, they were targeting, they wanted to go after them for years.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Now, I'm not going to be a part of them targeting and trying to set up some case against Roger.  Roger and I once again -- once again, and I don't care what the White House says, we were treated terribly.  We did not help -- we were not -- this wasn't some weird plot that we got fired, that I planned out to have my Facebook post -- we were treated terribly, and we had no contact with the campaign.  We didn't.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   All right.  I got to squeeze one more break and I want to show you something very specific.  We got those ten people and I also want to ask you about the president's trip to Russia when, you know, Keith Schiller has testified he was offered women to come to his room. We're going to talk about that right after this, Sam, and will be right back.
+(COMMERCIAL BREAK)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Welcome back.  
+Still here with Sam Nunberg and we have some breaking news just coming in from the ranking member of the House Intelligence Committee.  Adam Schiff just speaking to cameras and because of the Trump Tower meeting which you were just talking to me about, he is saying but he wants you to come in front of the committee and talk to them about this, to understand exactly what you're saying about how Trump would have known about this meeting.  
+What do you say to Adam Schiff?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   All right.  I think it's -- you know, I like what Roger Stone said about Adam Schiff.  Schiff is full of chef.  I think Adam is trying to run for senator.  I think that he's trying to use this -- once again, I probably think that though that the Democrats will end up winning the House and it'll have a very powerful position.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Is that a yes or a no?  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I would go there, sure.  I think I'll be funny --  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, you'll go there but you won't go in front of grand jury.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No, no, well, you know what?  I don't think I've been clear about this.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I won't sit for 80 hours to produce every email I had with Roger Stone and Steve Bannon, and, Erin --  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, what you're saying you actually -- if there's a less amount of time, that you will go?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Maybe, I don't know.  I just think that this is ridiculous after I went in there, once again, I mean, say what you want, and I've said they have -- that Rosenstein was right to launch this independent counsel.  But for me to have to -- after I sat there and I cooperated with them, but I -- why do I have to give them every communication I had with Steve Bannon, Roger Stone?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Because they asked for it and it's the special counsel.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   OK, fine, we'll find out.  You know what?  We'll find out. I think this is what -- well, this is history.  So, we'll see, I think it's 50/50, what Mueller will do.  I don't think he knows what he's going to do.  What do you think he's going to do?  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, is this sort of like you're doing a game of chicken for you right now?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No, it's not a game of chicken.  It's just that I think that after I went in there once again, after I went in there, what do we -- what all of us have to do to continue with this, you know, what are they going to continue to ask us or for stuff?  It's ridiculous.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Let's come back to the question that I think we've all repeatedly had, is if you have nothing to hide, why not just answer every question they have?  Who cares?  Eighty hours out of your life, you don't do it, you could go -- you could go to prison.  That's I think the fundamental question people have watching.  Why not?  Just answer the question.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Because of once again and this goes back to something else and, by the way, whatever Trump did and if he did something -- whatever Trump did, he was going to get away with, so he shouldn't fire Comey, OK?
+But I don't like the fact that they -- did they treat Hillary Clinton people like this when they were investigating the emails?  Did they?  Did they?  Did they ask them?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Again, I don't -- we don't have the subpoenas, I'm not sure.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   OK, so let's see them.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, Sam, I have to ask you one other thing.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes, ma'am.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   And it's an awkward question to ask, but, you know, I've been here before you're sitting very close to me.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   We talked earlier about what people in the White House were saying about you.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Talking about whether you were -- you were drinking or on drugs or whatever, they, had had happened today.  Talking to you --  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   -- I have smelled alcohol on your breath.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Well, I have not had a drink.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You haven't had a drink.  So, that's not --  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, I just -- because it is the talk out there -- again, I know it's awkward.  Let me just give you the question and give you categorically --  
+(CROSSTALK)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You haven't had a drink today?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   My answer is no, I have not.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Anything else?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   No?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No.  Besides my meds.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Anti-depressants, is that OK?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   No, I mean, I'm not -- I'm just trying to understand what happened today.  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Well, look -- well, look, they say -- they can say whatever they want.  I don't really care what -- once again, they're pathetic. Their president has a 33 percent approval rating.  What was the rating number you guys released?  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   I don't know the exact number, it was in the 30s.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   It was in the 30s, so whatever they want to say about me, that's fine.  Once again, Roger is very nice.  Roger has a relationship with the president.  Roger is very loyal to the president.  
+I don't care.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   OK?  I'm the one who was treated terribly by him and I'll say that a thousand times.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   So whatever they want to say, that's -- they've tried to use that against me, you know.  This was -- this was their big thing. Well, I'll tell you one thing, I didn't steal from campaign, OK?  I didn't -- I didn't have -- I didn't have an illicit affair with a married man, you know?  I -- all I did was work for him for four and a half years, and now, I get this crap -- and now I get this crap after, you know, legal business (ph).
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   All right.  Well, Sam, I appreciate your time.  I know you gave us a lot of it and thank you very much.  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Thank you very much.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Good to talk to you again.
+And that was Sam Nunberg with all of this important story he's talking about today.
+Next, what can Robert Mueller do to Sam Nunberg now but he's defying him.  The question that Sam was just asking to all of you.  
+Jeffrey Toobin, among others, join me next.
+(COMMERICAL BREAK)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Breaking news, the act of defiance and you just saw it.  The former Trump campaign aide Sam Nunberg refusing to comply with the subpoena by the special counsel Robert Mueller to appear before a grand jury.  Multiple legal experts telling CNN Nunberg could go to prison if he refuses and you heard what he had to say, he didn't care.  He thinks it won't ever happen.
+(BEGIN VIDEO CLIP)
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   I'm not going to get sent to prison.  Do you think I'm going to get sent to prison?
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   How do you know that?  I mean, someone has been before.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   One person, fine, you're mentioning from a long time ago. Do you think Robert Mueller is going to send me to prison, Erin, for this?  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   I don't know, but he certainly would be within his rights.
+(END VIDEO CLIP)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Our chief legal analyst Jeffrey Toobin joins me, along with Bob Mueller's former special assistant at the Justice Department, Michael Zeldin.  Both men also former federal prosecutors.  
+Jeffrey, your response to Sam?
+Name: JEFFREY TOOBIN ( CNN CHIEF LEGAL ANALYST) ; Gender: male ; Race:  caucasian ; Dialogue:   Well, he sounds like a troubled person and he's really wading into some big, big trouble.  I mean, just to -- just to start with the basics.  He's got a grand jury subpoena, he's due to appear on Friday.  You cannot say it's ridiculous and not show up.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Right.
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   Now --  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   He said he had a 3:00 p.m. deadline, by the way, and he didn't meet it.  But his own lawyer hasn't even talked --  
+(CROSSTALK)
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   You know, I don't think Mueller wants to get into a big circus with this guy.  I am sure what Mueller will do is go to the lawyer and say, look, work this out, maybe he doesn't have to be Friday, maybe it'll be Monday, maybe it'll be next week.  But he cannot just defy a grand jury subpoena because he doesn't feel like it or he feels like he was ill treated by Donald Trump two years ago.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Right.
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   I mean, he has to testify and if he doesn't testify and if he continues this defiance, Mueller is going to lock him up, and he can lock him up until he cooperates, which could be as long as 18 months.  
+But I don't think Mueller wants to do that.  Mueller does not want a sideshow like this.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   No.
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   He just wants the guy to testify which he's obligated to do.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, Michael, what happens here because, you know, I don't -- you know, you keep hearing Sam Nunberg in that interview, you know, yes, I think troubles a fair work, but saying, well, he's not going to lock me up, what do you think he's going to do?  I mean, Michael, obviously there is a precedent here what Susan McDougal.  There are also are other people that he's subpoena so may not want a scene out of this we can't afford to just ignore it and let this defiance go out there.  
+I mean what does Bob Mueller do to Sam Nunberg?
+Name: MICHAEL ZELDIN ( FORMER SPECIAL ASSISTANT TO ROBERT MUELLER) ; Gender: male ; Race:  caucasian ; Dialogue:   So, the way the process works, Erin, is he's received a grand jury subpoena. He can with his lawyer come in and move to narrow the subpoena's scope or to quash it, meaning get rid of it all together.  If that's unavailing, then he has to offer his testimony.  
+If he refuses to offer his testimony, generally speaking, the prosecutor will go to the supervising judge and say this person is refusing to answer my questions they'll hold a hearing a show cause hearing at which the person will have an opportunity to present the basis for their not testifying.  It could be he's asserting the Fifth Amendment.  He could have legal privilege.
+The court then will determine whether or not that showing is adequate. If it's inadequate, the judge can then hold the person in civil contempt and in find him or imprison him as Jeffrey said for the length of the grand jury.  It's not Mueller who sets the penalty. It's the court because in this type of criminal contempt proceeding just like we saw with Susan McDougal in the Whitewater case, the judge says you can get out of jail tomorrow if you cooperate or you can sit there as long as the grand jury is in session.  So, it's an indefinite sentence that the court imposes based on his refusal to face the --  
+(CROSSTALK)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   And just -- I mean, civil contempt is you don't get a trial, you don't get a jury trial.  Civil contempt is you go to jail today. That's what the judge can do.  So, I mean, this is not a complicated legal process what --   
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   To go ahead and --   
+(CROSSTALK)
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   But what I'm trying to say is, you know, obviously, this is personal to him, about Donald Trump.
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   But the other part of it that I couldn't truly understand was why he would go so far for Roger Stone.  Roger Stone can handle Roger Stone, but he kept ready make it about Roger Stone, his father figure, this mentor, I'm willing to fall on the sword for Roger Stone.
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   Well, you know, I've covered Roger a lot over the years and, you know, Roger is someone who is very loyal to his people and who gives a great deal of loyalty.  So, I can understand Sam Nunberg's affection for Roger Stone.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.  
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   But, you know, this is not a game about who you like and who you're loyal to.  This is a grand jury subpoena.  This is a criminal investigation.  People are put in awkward positions by grand jury subpoenas all the time, and unless it's your wife or your husband where you have a privilege, you don't have a -- there's no such thing as a mentor privilege.  You have to testify even if it's unpleasant.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, Michael, what is the purpose of -- if they've done the interview as he said and they were very professional, he's talked to them.  
+He's assuming that they already have his texts and -- I mean, even during this interview, he moved from I felt like complete defiance to it's a 50/50 if I appear, I'm fine, I'll give him my password for the text, right?  I mean, this is a moving target.
+But the point I want to ask is, what is the purpose that Mueller would have what he's already done an interview of him then also appearing in front of the grand jury
+Name: ZELDIN ; Gender: male ; Race:  caucasian ; Dialogue:   So the way it normally works is there's a multi-step process where you gather documents, you speak to witnesses informally and when you have your case ripen so that you're ready to take action, you bring that person or those documents or both into the grand jury for them to receive the information because it is only a grand jury that can indict.  Mueller doesn't have the power to indict, independent of a grand jury.  The FBI doesn't have a power to indict independently grand jury.  So, it's the grand jury who takes the formal legal action.
+So, this is the sort of formalization of the process that was started informally and that's what prosecutors do.
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   And Mueller as put -- has acted completely normally for a prosecutor.  You'd do an office interview first, then you decide whether you want to bring someone in the grand jury.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   In other words, there's enough to ask.
+Name: TOOBIN ; Gender: male ; Race:  caucasian ; Dialogue:   That's enough to ask, right.  But the idea that one is a substitute for the other is simply wrong.  I mean, they do both.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Which is important to point out.
+Name: ZELDIN ; Gender: male ; Race:  caucasian ; Dialogue:   May I add one thing, which is what's interesting to me about this is the substance of what it is that Mueller is asking about, which is Roger Stone and his relationship with WikiLeaks.  We saw in the social media indictments of the Russians that part, now we're going to see the hacking part.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   All right.  Thank you both very much.
+And next, the question that people have been asking today and they've been asking it loudly and everywhere, and it's an important one then to answer.  Is Sam Nunberg OK? (COMMERCIAL BREAK)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Breaking news, former Trump campaign aide Sam Nunberg speaking here with me just moments ago.  
+Several CNN reporters received calls and emails.  I communicated, I'm sorry, by text with the Trump ally, all of these to the various supporters here at CNN coming from people close to Trump who were saying Nunberg has been drinking or perhaps something else.  
+And so, given all of this, and the talk on social media, the interviews he did today, it was a fair and important topic and I asked him about it.
+(BEGIN VIDEO CLIP)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Talking to you do I have smelled alcohol on your breath.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Well, I have not had a drink.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   You haven't had a drink?  So, that's not --  
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Anything else?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No. 
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   No?
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   No, besides my meds.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK.
+Name: NUNBERG ; Gender: female ; Race:  caucasian ; Dialogue:   Antidepressants, is that OK?
+(END VIDEO CLIP)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OUTFRONT now, national affairs correspondent for "The Nation", Joan Walsh, and former Trump campaign adviser Steve Cortes.  
+Joan, you're sitting next to me, let me start with you.  What do you make from -- of what we heard from Nunberg?
+Name: JOAN WALSH ( NATIONAL AFFAIRS CORRESPONDENT, THE NATION) ; Gender: female ; Race:  caucasian ; Dialogue:   I thought that that was very sad.  I thought that you know that ending -- I'm on antidepressants, there's nothing wrong with that, Erin.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   No.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   I think he did the right thing by asking, giving him a chance to respond since the whole social media universe has been speculating about this, and the Trump White House has put out this line that he's had issues with alcohol.  I felt like he would -- he would have sat here with you all day.  He
+seems lonely.  He seems to need to hear himself talk right now.  It seems like it would be better if he spent time with his lawyer and also a counselor, because he's acting out that whatever sacrificial thing he thinks he's doing for Roger Stone could get him in an enormous amount of trouble.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes, which is we just heard from the lawyer.
+Steve, your reaction?
+Name: STEVE CORTES ( FORMER TRUMP CAMPAIGN ADVISER) ; Gender: male ; Race:  caucasian ; Dialogue:   Yes, listen, I've never met him.  I don't know him.  He certainly appeared unwell to me, and quite frankly I think for any network to put him on is irresponsible, I do.  I don't think he was in a position to be talking on a live studio audience or in front of a live studio, in front of America.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   He received a subpoena from the special counsel.  So, certainly, he's relevant to the Russia investigation and is important to that capacity.  And e wanted to talk about it so I strongly disagree with you he is not a newsworthy figure worthy of an interview, Steve.
+Name: CORTES ; Gender: female ; Race:  african,caucasian ; Dialogue:   I didn't say he's not newsworthy.  I just -- I'm not sure that he was ready to be on-air.  But more important --
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   OK, that's not the point, though.
+(CROSSTALK)
+Name: CORTES ; Gender: female ; Race:  african,caucasian ; Dialogue:   Well, here's why I think mainstream media rushed to put him on, because they thought that he was going to give them incriminating evidence on Donald Trump, and in fact, we found out the opposite.  We found out number one, and he said it repeatedly, he, quote, hates Donald Trump, and he said that emphatically.  He hates Donald Trump.
+Number two, he was fired 15 months before the election.  So, whatever problems he has personally, professionally, those were identified very early by the Trump campaign.  He was not relevant to the Trump campaign.  
+I think, number three, all of his assertions about what did or didn't go on with Russian collusion and he admitted as much --  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Yes.
+Name: CORTES ; Gender: female ; Race:  african,caucasian ; Dialogue:   -- are pure speculation.  He has no direct knowledge of any of that.
+So I think this is, unfortunately, Erin, emblematic of the continual efforts of the mainstream media to try to discredit the election of 2016 --  
+(CROSSTALK)
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   So, what I would say, Steve, Joan, and let me put this question to Joan, he's a guy who worked for Donald Trump from 2011 to 2015, I believe he said three or four and a half years.  It's a long time.  It's a person he would know very well.  So I think you're wrong in that point, Steve.
+Joan, also though, he said that in 2011, the president was getting ready to run, thinking of running.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Right.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Which, by the way, for everybody, that's very newsworthy because when the president was thinking about running is hugely important to the Mueller investigation and into the financial investigations going on around that.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   He confirmed that.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Sam Nunberg is an important guy.  Whether he is being fully coherent and being reasonable with what he's saying now --  
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   Right.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   He's almost a separate point, but he's important here.  Bob Mueller thinks that he's important enough to appear in front of the grand jury.
+Name: WALSH ; Gender: male ; Race:  caucasian ; Dialogue:   He's a newsmaker.  He's been subpoenaed in this investigation, Erin, and he's now claiming that he's going to defy that subpoena, although by the end of your conversation, I almost had a feeling like he was maybe going to that -- you know, comply with part of it.  
+So, I really argue with Steve.  This is incredibly newsworthy.  This man did seem to unravel before our eyes.  The one thing that I thought was interesting was he seems absolutely convinced that Russia got the emails and that gave him to WikiLeaks.  How he knows that I don't know, but he wants to keep Roger Stone out of the middle of that, which is very, very interesting because lots of people think Stone did play a role there.
+But, you know, a lot of others speculation about Trump knowing about Trump Tower, let me finish, I'm going to say something that you'll probably like, his speculation about Trump knowing about the Trump Tower meeting with his son and Manafort and Jared Kushner, he would have no way of knowing that quite honestly.  So, he was volunteering a lot of information that I don't think he was in a position to know.  
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Steve, final word, since Joan had the first.
+Name: CORTES ; Gender: female ; Race:  african,caucasian ; Dialogue:  Well, not remotely in a position.  You know, he was fired in 2015.  He was fired well before the primary.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   Two months into a formal campaign.
+Name: CORTES ; Gender: female ; Race:  african,caucasian ; Dialogue:   Of 2016.  So the idea that he knows what Donald Trump was thinking or what he knew is ludicrous and I think again, what's going on here -- let's be honest -- the left continues to get lost, to get mired in fascination about supposed controversies and conspiracies of foreign nationals in 2016 rather than the American people of Wisconsin and Michigan and Ohio electing Donald Trump.
+Name: BURNETT ; Gender: male ; Race:  caucasian ; Dialogue:   We will leave it there because we're out of time in our show.  I will say that the people around the president who were involved in helping him get ready to run and ready and running itself is hugely important to this country, the quality of people and who he would pick to be around him.
+Thank you both and thank you all for joining us.
+Anderson's show starts now.
+###END
+</p>
